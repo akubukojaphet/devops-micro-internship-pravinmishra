@@ -57,9 +57,8 @@ Write each truth in this format:
 
 ---
 
-## Truth #1
+## Truth 1
 
-### Truth
 
 Consistency produces better results than motivation.
 
@@ -69,9 +68,8 @@ There were many days I didn't feel motivated to study after work, especially aft
 
 ---
 
-## Truth #2
+## Truth 2
 
-### Truth
 
 Asking for help accelerates learning
 
@@ -81,9 +79,8 @@ Earlier in my learning journey, I tried solving every problem alone because I th
 
 ---
 
-## Truth #3
+## Truth 3
 
-### Truth
 
 Growth happens outside your comfort zone
 
@@ -159,6 +156,7 @@ Beyond his day-to-day responsibilities, he remained committed to giving back to 
 
 Looking back, his biggest achievement was not changing careers, it was changing the way he approached learning. The systems, discipline, and consistency he developed during that transition became the foundation for every success that followed. His journey proved that career growth is rarely defined by where someone starts, but by what they choose to build every single day.
 
+
 P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community: https://discord.pravinmishra.com/.
 
 
@@ -198,7 +196,7 @@ If Yes:
 
 ## Answer
 
-#Yes.
+Yes.
 
 There have been times when I looked for shortcuts instead of fully understanding what I was learning. For example, while working on technical projects, I occasionally copied commands or solutions from documentation or online forums without taking enough time to understand why they worked. Although it helped me finish a task faster, I later realized that I struggled to explain or troubleshoot the same problem on my own.
 
@@ -301,7 +299,7 @@ Examples:
 
 Answer:
 
-#Yes.
+Yes.
 
 Before creating my plan, I spent time writing down everything that was occupying my mind. This included work responsibilities, unfinished DevOps projects, certification goals, internship applications, financial commitments, family responsibilities, ideas for LinkedIn content, pending messages, and personal goals. Seeing everything in one place helped me identify what truly deserved my attention and what was simply creating mental clutter.
 
@@ -321,26 +319,26 @@ Example:
 
 #### My Weekly Routine
 
-#Monday – Thursday
+Monday – Thursday
 
 Carry out my responsibilities at work with focus and professionalism.
 Arrive home, have dinner, and take a short break.
 8:45 PM – 10:30 PM: Dedicated DevOps learning and hands-on practice, including Linux, Git, Docker, Terraform, Jenkins, Kubernetes, AWS, and CI/CD.
 10:30 PM – 10:45 PM: Update my learning notes, document progress, or commit completed work to GitHub.
 
-#Friday
+Friday
 
 Complete and review the week's DMI assignment before the 11:59 PM submission deadline.
 Test my solutions thoroughly, improve my documentation, and push the final changes to GitHub.
 Reflect on what I learned during the week and prepare for the next DMI session.
 
-#Saturday
+Saturday
 
 5:30 AM – 1:30 PM: Attend the 8-hour DevOps Micro Internship (DMI) live session, actively participate, take notes, and complete practical exercises.
 Review the week's assignment requirements immediately after the session.
 Break the assignment into smaller tasks and create a plan to complete it gradually during the week instead of waiting until Friday.
 
-#Sunday
+Sunday
 
 Begin working on the current week's DMI assignment while the concepts are still fresh.
 Build or improve personal DevOps projects using what I learned during the live session.
@@ -355,7 +353,7 @@ Plan my work, learning goals, and priorities for the upcoming week.
 
 * Sunday (4:00 PM – 7:00 PM): Begin working on the week's DMI assignment while the concepts from Saturday's live session are still fresh.
 
-* Monday – Thursday (8:45 PM – 10:30 PM): Continue the assignment, complete hands-on labs, and work on any required research or project tasks after returning home from work.
+* Monday TO  Thursday (8:45 PM – 10:30 PM): Continue the assignment, complete hands-on labs, and work on any required research or project tasks after returning home from work.
 
 * Friday (8:30 PM – 11:00 PM): Review, test, and finalize the assignment, update GitHub documentation if required, and submit it before the 11:59 PM deadline.
 
@@ -388,7 +386,7 @@ Examples:
 
 ### Biggest insight I got about myself this week
 
-The biggest insight I gained this week was that long-term success is built on systems, not good intentions. During the DMI Cohort 3 onboarding, I realized this program is not just about learning DevOps tools—it is about developing the discipline, consistency, and execution mindset required to succeed in the tech industry.
+The biggest insight I gained this week was that long-term success is built on systems, not good intentions. During the DMI Cohort 3 onboarding, I realized this program is not just about learning DevOps tools, it is about developing the discipline, consistency, and execution mindset required to succeed in the tech industry.
 
 As someone balancing a full-time role in banking operations while transitioning into Cloud and DevOps, I know my biggest challenge is not a lack of interest but staying consistent over several months. The onboarding helped me understand that making small, steady progress every week is far more valuable than trying to do everything at once. It also reinforced the importance of documenting my work, building real projects, managing my time intentionally, and taking ownership of my learning. My biggest takeaway is that if I trust the process and remain consistent, I will be in a much stronger position five months from now than I am today.
 
@@ -408,13 +406,14 @@ On Sunday from 4:00 PM to 7:00 PM, I will begin working on the week's DMI assign
 
 https://www.linkedin.com/posts/akubuko-japhet_devops-cloudcomputing-careertransition-share-7477343273628545024-jx9V/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A
 
-`__________________________`
 
 ---
 
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **https://www.linkedin.com/posts/akubuko-japhet_devops-cloudcomputing-careertransition-share-7477343273628545024-jx9V/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A**  
+
+
 - Blog / Medium : **https://medium.com/@akubukoJaphet/a-nigerian-banking-professional-documenting-his-transition-into-devops-one-evening-at-a-time-40e67a9ffaff**  
 
 ---
