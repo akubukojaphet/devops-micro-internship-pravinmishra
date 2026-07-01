@@ -16,7 +16,7 @@
 | **Name** | Akubuko Japhet |
 | **LinkedIn** | [akubuko-japhet](https://www.linkedin.com/in/akubuko-japhet/) |
 | **Location** | Lagos, Nigeria |
-| **Background** | Cloud Engineer |DevOps |AI Automation |
+| **Background** | Cloud & DevOps |
 | **Goal** | My goal is to become a world-class Cloud & DevOps Engineer by building secure, scalable cloud solutions, automating infrastructure, contributing to open source, and continuously learning emerging technologies, including AI. |
 
 ---
