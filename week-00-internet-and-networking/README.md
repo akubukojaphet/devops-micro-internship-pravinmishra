@@ -34,7 +34,8 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+From this task, I learned that a protocol in networking is a set of rules that enables smooth communication between devices. I also realized the importance of using ChatGPT, as it helped simplify the concept, provide clear examples, and made it easier to understand and complete the task efficiently.
+
 
 ---
 
@@ -59,7 +60,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When someone anywhere in the world tries to visit EpicReads, their device sends a request over the internet. Every website has an “IP address”, which works like a home address, helping the request find the server in Finland. The data does not travel in one piece; it is broken into small parts through “packet switching”, so it can move faster across different routes. These packets follow rules called “TCP/IP”, which ensure the data is sent correctly, arrives complete, and is arranged in the right order. Finally, “HTTP or HTTPS” is used to display the website in the user’s browser, allowing them to view and interact with the online bookstore securely.
+
 
 ---
 
@@ -102,18 +104,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML / CSS
+* JavaScript (React, Vue)
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Python (Django, Flask)
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* MongoDB
 
 ---
 
@@ -142,7 +144,10 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the internet’s phonebook it translates a human-friendly domain name like epicreads.com into a machine-readable IP address like 52.172.142.222, so users don’t have to remember numbers.
+
+To connect the domain to the IP, you should use an A record. This is because an A record directly maps a domain name to an IPv4 address, making it the simplest and most appropriate choice for pointing EpicReads to its server.
+
 
 ---
 
@@ -218,16 +223,43 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/akubuko-japhet_pravinmishra-devops-cloudcomputing-share-7442112336343146496-LNb_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A
 ```
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+My DevOps Learning Journey. From Basics to Practical Setup
+
+Over the past few days, I’ve been building my foundation in DevOps, and I decided to document what I’ve learned so far.
+
+🔹 ChatGPT
+One tool that really supported my learning is ChatGPT. I used it to break down complex topics into simple explanations, guide me through tasks, and improve my understanding when I got stuck. It felt like having a study partner available anytime.
+
+🔹 Internet & Networking
+I learned how devices communicate over the internet using IP addresses, and how protocols make communication possible. Before now, I used the internet daily without really understanding what happens behind the scenes.
+
+🔹 Application Architecture
+I explored how applications are structured:
+In a 2-tier architecture, the frontend connects directly to the database.
+In a 3-tier architecture, a backend is introduced between them, making the system more secure and scalable.
+This helped me understand how real-world applications are built.
+
+🔹 DNS (Domain Name System)
+I discovered that DNS works like the internet’s phonebook. Instead of remembering IP addresses, we use domain names.
+To connect a domain to a server IP, an A record is used because it maps the domain name directly to the IP address.
+
+🔹 VS Code Setup (Hands-on)
+I installed Visual Studio Code and practiced using the built-in terminal. I ran basic commands like pwd, ls, and explored different themes. This gave me confidence working in a developer environment.
+
+💡 This experience has shown me that DevOps is not just about tools, but understanding how everything connects, from code to deployment.
+I’m excited to keep learning and building! 
+
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra. You can start your DevOps journey for free from his YouTube Playlist.
+
+#PravinMishra #DevOps #CloudComputing #LearningJourney #TechSkills #BeginnerInTech #VSCode #Networking #DNS #SoftwareEngineering #BuildInPublic
 
 ---
 
@@ -235,19 +267,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+Understanding basic concepts like running commands in VS Code and using ChatGPT to simplify explanations. I also found it easy to visualize app architectures with diagrams.
 
 ---
 
-### What was difficult?
+### What was difficult
 
-Add your answer here...
+Grasping some networking concepts at first, like protocols and DNS records, and remembering which commands work on Windows vs Linux/Mac.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I plan to practice more hands-on exercises in VS Code and get more comfortable with networking commands and concepts. I also want to improve how I explain technical ideas in simple, clear language.
 
 ---
 
