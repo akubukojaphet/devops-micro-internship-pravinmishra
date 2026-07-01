@@ -16,7 +16,7 @@
 | **Name** | Akubuko Japhet |
 | **LinkedIn** | [akubuko-japhet](https://www.linkedin.com/in/akubuko-japhet/) |
 | **Location** | Lagos, Nigeria |
-| **Background** | Cloud Engineer | DevOps | AI Automation |
+| **Background** | Cloud Engineer |DevOps |AI Automation |
 | **Goal** | My goal is to become a world-class Cloud & DevOps Engineer by building secure, scalable cloud solutions, automating infrastructure, contributing to open source, and continuously learning emerging technologies, including AI. |
 
 ---
@@ -64,7 +64,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ---
 
-**My stack:**
+## Your stack:**
 
  Week 00 → Internet & Networking Basics
  [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
@@ -166,6 +166,6 @@ This is not a course. It is an internship-style program — real deployments, re
 If you found this repo useful or want to follow my DevOps journey:
 
 - ⭐ Star this repo
-- 🔗 Connect with me on [LinkedIn](#)
+- 🔗 Connect with me on [https://www.linkedin.com/in/akubuko-japhet/](#)
 - 🌐 Learn more about the program: https://dmi.pravinmishra.com
 - 💬 Join the community: https://discord.pravinmishra.com
