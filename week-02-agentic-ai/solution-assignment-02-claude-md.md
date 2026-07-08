@@ -20,7 +20,7 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude response before CLAUDE.md
 
-Add your screenshot here.
+![Screenshot 1](./screenshots/screenshot-1-before-claude-md.png)
 
 ---
 
@@ -34,7 +34,9 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — Auto-generated CLAUDE.md
 
-Add your screenshot here.
+![Screenshot 2](./screenshots/screenshot-2-before-claude-md.png)
+
+![Screenshot 2](./screenshots/screenshot-2-init-generated-claude-md.png)
 
 ---
 
@@ -48,7 +50,9 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Customized CLAUDE.md (all 5 sections visible)
 
-Add your screenshot here.
+![Screenshot 3](./screenshots/screenshot-3-customized-claude-md.png)
+
+![Screenshot 3](./screenshots/screenshot-3-init-generated-claude-md.png)
 
 ---
 
@@ -62,14 +66,35 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude response with project-specific deployment details
 
-Add your screenshot here.
+![Screenshot 4](./screenshots/screenshot-4-after-state-deployment-answer.png)
+
+![Screenshot 4](./screenshots/screenshot-4-customized-claude-md.png)
 
 ---
 
 #### Screenshot 5 — Claude response rejecting React/component change based on rules
 
-Add your screenshot here.
+![Screenshot 5](./screenshots/screenshot-5-after-state-deployment-answer.png)
 
+![Screenshot 5](./screenshots/screenshot-5-react-refusal.png)
+
+---
+
+# Task 5 —  Commit and push your changes to your fork in GitHub
+
+## Goal
+
+Commit the CLAUDE.md file and push it to your GitHub fork so the project instructions are version-controlled.
+
+### Evidence
+
+#### Screenshot 6 — Claude response rejecting React/component change based on rules
+
+![Screenshot 6](./screenshots/screenshot-6-after-state-deployment-answer.png)
+
+![Screenshot 6](./screenshots/screenshot-6-claude-md-on-github.png)
+
+![Screenshot 7](./screenshots/screenshot-7-claude-md-on-github.png)
 ---
 
 # Submission Instructions
@@ -82,7 +107,7 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/akubukojaphet/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/solution-assignment-02-claude-md.md
 
 `__________________________`
 
