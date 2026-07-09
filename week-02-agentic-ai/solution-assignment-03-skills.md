@@ -20,7 +20,7 @@ Create the required `.claude/skills/` directory structure for all skills.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible
 
-Add your screenshot here.
+![Screenshot 1](./screenshots/ss1-skill-folder-structure.png)
 
 ---
 
@@ -34,13 +34,13 @@ Place all required skill files into their correct directories and verify their c
 
 #### Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
 
-Add your screenshot here.
+![Screenshot 2](./screenshots/ss2-scaffold-terraform-files.png)
 
 ---
 
 #### Screenshot 3 — Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 
-Add your screenshot here.
+![Screenshot 3](./screenshots/ss3-tf-plan-frontmatter.png)
 
 ---
 
@@ -54,13 +54,21 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 
 #### Screenshot 4 — Claude's response showing the scaffold complete with the file list
 
-Add your screenshot here.
+![Screenshot 4](./screenshots/ss4a-scaffold-terraform-output.png)
+
+![Screenshot 4](./screenshots/ss4b-scaffold-terraform-output.png)
+
+![Screenshot 4](./screenshots/ss4c-scaffold-terraform-output.png)
+
+![Screenshot 4](./screenshots/ss4d-scaffold-terraform-output.png)
+
+![Screenshot 4](./screenshots/ss4e-scaffold-terraform-output.png)
 
 ---
 
 #### Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 
-Add your screenshot here.
+![Screenshot 5](./screenshots/ss5-terraform-folder-files.png)
 
 ---
 
@@ -74,7 +82,9 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 #### Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
 
-Add your screenshot here.
+![Screenshot 6](./screenshots/ss6a-tf-plan-output.png)
+
+![Screenshot 6](./screenshots/ss6b-tf-plan-output.png)
 
 ---
 
@@ -88,13 +98,13 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/akubukojaphet/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/solution-assignment-03-skills.md
 
 `__________________________`
 
 ## LinkedIn post URL
 
-Paste your forked repository URL here:
+https://www.linkedin.com/posts/akubuko-japhet_devops-terraform-claudecode-ugcPost-7481008271844282368-LRJL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A
 
 `__________________________`
 ---
