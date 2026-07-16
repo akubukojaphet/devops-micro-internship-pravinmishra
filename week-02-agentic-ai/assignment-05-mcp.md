@@ -100,7 +100,7 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 https://github.com/pravinmishraaws/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/Solutions_walkthrough/assignment-05-mcp.md
 
-`__________________________`
+`Add your URL here`
 
 ---
 

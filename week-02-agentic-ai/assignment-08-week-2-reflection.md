@@ -56,6 +56,8 @@ Blog Link:
 
 https://medium.com/@akubukoJaphet/how-week-2-changed-the-way-i-think-about-ai-in-devops-152117988d84
 
+`Add your URL here`
+
 ---
 
 # Task 2 — Create LinkedIn Post
@@ -144,6 +146,8 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 ### LinkedIn Post Link:
 
 https://www.linkedin.com/posts/akubuko-japhet_dmibypravinmishra-agenticai-claudecode-share-7481472149384400896-pATu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A
+
+`Add your URL here`
 
 ---
 

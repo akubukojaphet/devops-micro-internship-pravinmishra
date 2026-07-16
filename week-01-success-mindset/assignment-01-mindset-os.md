@@ -164,7 +164,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 https://medium.com/@akubukoJaphet/a-nigerian-banking-professional-documenting-his-transition-into-devops-one-evening-at-a-time-40e67a9ffaff
 
-`__________________________`
+`Add your URL here`
 
 ---
 
@@ -406,6 +406,8 @@ On Sunday from 4:00 PM to 7:00 PM, I will begin working on the week's DMI assign
 
 https://www.linkedin.com/posts/akubuko-japhet_devops-cloudcomputing-careertransition-share-7477343273628545024-jx9V/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A
 
+
+`Add your URL here`
 
 ---
 

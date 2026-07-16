@@ -420,7 +420,7 @@ This script combines several Bash concepts into one automation workflow. Variabl
 
 https://www.linkedin.com/posts/akubuko-japhet_devops-linux-bash-ugcPost-7484390293040103424-8myE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A
 
-`__________________________`
+`Add your URL here`
 
 ---
 

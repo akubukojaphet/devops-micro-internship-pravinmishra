@@ -100,13 +100,13 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 https://github.com/akubukojaphet/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/solution-assignment-03-skills.md
 
-`__________________________`
+`Add your URL here`
 
 ## LinkedIn post URL
 
 https://www.linkedin.com/posts/akubuko-japhet_devops-terraform-claudecode-ugcPost-7481008271844282368-LRJL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A
 
-`__________________________`
+`Add your URL here`
 ---
 
 # Completion Checklist

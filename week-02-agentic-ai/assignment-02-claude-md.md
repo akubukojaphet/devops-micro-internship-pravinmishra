@@ -112,6 +112,8 @@ Paste your forked repository URL here:
 
 https://github.com/akubukojaphet/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/solution-assignment-02-claude-md.md
 
+`Add your URL here`
+
 ---
 
 # Completion Checklist

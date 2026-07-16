@@ -93,7 +93,7 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 https://www.linkedin.com/posts/akubuko-japhet_devops-agenticai-claudecode-ugcPost-7481387079290232832-fFKO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A
 
-`__________________________`
+`Add your URL here`
 
 ---
 
@@ -101,7 +101,7 @@ https://www.linkedin.com/posts/akubuko-japhet_devops-agenticai-claudecode-ugcPos
 
 https://github.com/akubukojaphet/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/solution-assignment-07-memory.md
 
-`__________________________`
+`Add your URL here`
 
 ---
 

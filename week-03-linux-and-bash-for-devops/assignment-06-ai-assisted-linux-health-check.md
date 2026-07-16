@@ -499,7 +499,7 @@ Agentic Workflow: Gather → Analyze → Human Act → Verify
 
 https://www.linkedin.com/posts/akubuko-japhet_dmibypravinmishra-devops-linux-ugcPost-7484583177542520832-XoUY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A
 
-`__________________________`
+`Add your URL here`
 
 ---
 
@@ -513,7 +513,7 @@ https://www.linkedin.com/posts/akubuko-japhet_dmibypravinmishra-devops-linux-ugc
 
 https://github.com/akubukojaphet/devops-micro-internship-pravinmishra/tree/main/week-03-linux-and-bash-for-devops
 
-`__________________________`
+`Add your URL here`
 
 ---
 
