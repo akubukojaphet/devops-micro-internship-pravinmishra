@@ -20,25 +20,25 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-![Browser showing React app](assignment-03-task-01-screenshot-01-react-app-browser.png)
+![Browser showing React app](./screenshots/assignment-03-task-01-screenshot-01-react-app-browser.png)
 
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-![ip a](assignment-03-task-01-screenshot-02-ip-a.png)
+![ip a](./screenshots/assignment-03-task-01-screenshot-02-ip-a.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-![sudo ss -tulpen](assignment-03-task-01-screenshot-03-ss-tulpen.png)
+![sudo ss -tulpen](./screenshots/assignment-03-task-01-screenshot-03-ss-tulpen.png)
 
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-![sudo ufw status](assignment-03-task-01-screenshot-04-ufw-status.png)
+![sudo ufw status](./screenshots/assignment-03-task-01-screenshot-04-ufw-status.png)
 
 ---
 
@@ -74,19 +74,19 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-![systemctl status nginx](assignment-03-task-02-screenshot-01-nginx-status.png)
+![systemctl status nginx](./screenshots/assignment-03-task-02-screenshot-01-nginx-status.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-![sudo nginx -t](assignment-03-task-02-screenshot-02-nginx-test.png)
+![sudo nginx -t](./screenshots/assignment-03-task-02-screenshot-02-nginx-test.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-![Port 80 listening](assignment-03-task-02-screenshot-03-port-80-listening.png)
+![Port 80 listening](./screenshots/assignment-03-task-02-screenshot-03-port-80-listening.png)
 
 ---
 
@@ -116,19 +116,19 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-![Access log](assignment-03-task-03-screenshot-01-access-log.png)
+![Access log](./screenshots/assignment-03-task-03-screenshot-01-access-log.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-![Error log](assignment-03-task-03-screenshot-02-error-log.png)
+![Error log](./screenshots/assignment-03-task-03-screenshot-02-error-log.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-![Journalctl Nginx](assignment-03-task-03-screenshot-03-journalctl-nginx.png)
+![Journalctl Nginx](./screenshots/assignment-03-task-03-screenshot-03-journalctl-nginx.png)
 
 ---
 
@@ -167,25 +167,25 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-![Uptime](assignment-03-task-04-screenshot-01-uptime.png)
+![Uptime](./screenshots/assignment-03-task-04-screenshot-01-uptime.png)
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-![Free memory](assignment-03-task-04-screenshot-02-free-memory.png)
+![Free memory](./screenshots/assignment-03-task-04-screenshot-02-free-memory.png)
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-![Disk usage](assignment-03-task-04-screenshot-03-disk-usage.png)
+![Disk usage](./screenshots/assignment-03-task-04-screenshot-03-disk-usage.png)
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-![Var directory size](assignment-03-task-04-screenshot-04-var-directory-size.png)
+![Var directory size](./screenshots/assignment-03-task-04-screenshot-04-var-directory-size.png)
 
 ---
 
@@ -215,19 +215,19 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-![Web root files](assignment-03-task-05-screenshot-01-web-root-files.png)
+![Web root files](./screenshots/assignment-03-task-05-screenshot-01-web-root-files.png)
 
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-![Deployment marker](assignment-03-task-05-screenshot-02-deployment-marker.png)
+![Deployment marker](./screenshots/assignment-03-task-05-screenshot-02-deployment-marker.png)
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-![Try files configuration](assignment-03-task-05-screenshot-03-try-files-config.png)
+![Try files configuration](./screenshots/assignment-03-task-05-screenshot-03-try-files-config.png)
 
 ---
 
@@ -251,19 +251,19 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-![Broken configuration](assignment-03-task-06-screenshot-01-nginx-config-error.png)
+![Broken configuration](./screenshots/assignment-03-task-06-screenshot-01-nginx-config-error.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-![Fixed configuration](assignment-03-task-06-screenshot-02-nginx-config-fixed.png)
+![Fixed configuration](./screenshots/assignment-03-task-06-screenshot-02-nginx-config-fixed.png)
 
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-![Recovery 200 OK](assignment-03-task-06-screenshot-03-nginx-recovery-200.png)
+![Recovery 200 OK](./screenshots/assignment-03-task-06-screenshot-03-nginx-recovery-200.png)
 
 ---
 
@@ -299,13 +299,13 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-![Application failure](assignment-03-task-07-screenshot-01-app-failure.png)
+![Application failure](./screenshots/assignment-03-task-07-screenshot-01-app-failure.png)
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-![Application recovery](assignment-03-task-07-screenshot-02-app-recovery-200.png)
+![Application recovery](./screenshots/assignment-03-task-07-screenshot-02-app-recovery-200.png)
 
 ---
 
@@ -386,7 +386,7 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — Published LinkedIn post
 
-![Published LinkedIn post](assignment-03-linkedin-post.png)
+![Published LinkedIn post](./screenshots/assignment-03-linkedin-post.png)
 
 ---
 
