@@ -20,13 +20,13 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 1 — Output of `echo $SHELL` and `bash --version`
 
-Add your screenshot here.
+![Bash Version](screenshots/assignment-05-task-01-screenshot-01-bash-version.png)
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-Add your screenshot here.
+![Workspace Directory](screenshots/assignment-05-task-01-screenshot-02-workspace-directory.png)
 
 ---
 
@@ -62,19 +62,19 @@ Create your first Bash script, make it executable, and run it from the terminal.
 
 #### Screenshot 1 — Content of `first-script.sh`
 
-Add your screenshot here.
+![First Script Content](screenshots/assignment-05-task-02-screenshot-01-first-script-content.png)
 
 ---
 
 #### Screenshot 2 — Output of `./first-script.sh`
 
-Add your screenshot here.
+![First Script Output](screenshots/assignment-05-task-02-screenshot-02-first-script-output.png)
 
 ---
 
 #### Screenshot 3 — Output of `ls -l first-script.sh` showing executable permission
 
-Add your screenshot here.
+![Executable Permission](screenshots/assignment-05-task-02-screenshot-03-script-executable-permission.png)
 
 ---
 
@@ -110,13 +110,13 @@ Use variables to store and display user-related information.
 
 #### Screenshot 1 — Content of `user-info.sh`
 
-Add your screenshot here.
+![User Info Script](screenshots/assignment-05-task-03-screenshot-01-user-info-script.png)
 
 ---
 
 #### Screenshot 2 — Output of `./user-info.sh`
 
-Add your screenshot here.
+![User Info Output](screenshots/assignment-05-task-03-screenshot-02-user-info-output.png)
 
 ---
 
@@ -152,13 +152,13 @@ Use arrays and loops to print a checklist of tools used in Bash scripting.
 
 #### Screenshot 1 — Content of `tools-checklist.sh`
 
-Add your screenshot here.
+![Tools Checklist Script](screenshots/assignment-05-task-04-screenshot-01-tools-checklist-script.png)
 
 ---
 
 #### Screenshot 2 — Output of `./tools-checklist.sh`
 
-Add your screenshot here.
+![Tools Checklist Output](screenshots/assignment-05-task-04-screenshot-02-tools-checklist-output.png)
 
 ---
 
@@ -200,13 +200,13 @@ Use loops to repeat a task multiple times.
 
 #### Screenshot 1 — Content of `counter.sh`
 
-Add your screenshot here.
+![Counter Script](screenshots/assignment-05-task-05-screenshot-01-counter-script.png)
 
 ---
 
 #### Screenshot 2 — Output of `./counter.sh`
 
-Add your screenshot here.
+![Counter Output](screenshots/assignment-05-task-05-screenshot-02-counter-output.png)
 
 ---
 
@@ -248,19 +248,19 @@ Use file checks and conditionals to verify whether files and directories exist.
 
 #### Screenshot 1 — Output of `ls -lah ../test-folder`
 
-Add your screenshot here.
+![Test Folder Listing](screenshots/assignment-05-task-06-screenshot-01-test-folder-list.png)
 
 ---
 
 #### Screenshot 2 — Content of `file-check.sh`
 
-Add your screenshot here.
+![File Check Script](screenshots/assignment-05-task-06-screenshot-02-file-check-script.png)
 
 ---
 
 #### Screenshot 3 — Output of `./file-check.sh`
 
-Add your screenshot here.
+![File Check Output](screenshots/assignment-05-task-06-screenshot-03-file-check-output.png)
 
 ---
 
@@ -302,25 +302,25 @@ Use if-else conditionals to make decisions based on a variable value.
 
 #### Screenshot 1 — Content of `score-check.sh` with `score=85`
 
-Add your screenshot here.
+![Pass Script](screenshots/assignment-05-task-07-screenshot-01-score-check-pass-script.png)
 
 ---
 
 #### Screenshot 2 — Output showing `Result: Pass`
 
-Add your screenshot here.
+![Pass Output](screenshots/assignment-05-task-07-screenshot-02-pass-output.png)
 
 ---
 
 #### Screenshot 3 — Content of `score-check.sh` with `score=55`
 
-Add your screenshot here.
+![Retry Script](screenshots/assignment-05-task-07-screenshot-03-score-check-retry-script.png)
 
 ---
 
 #### Screenshot 4 — Output showing `Result: Retry`
 
-Add your screenshot here.
+![Retry Output](screenshots/assignment-05-task-07-screenshot-04-retry-output.png)
 
 ---
 
@@ -362,19 +362,19 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 1 — Content of `final-automation.sh`
 
-Add your screenshot here.
+![Final Automation Script](screenshots/assignment-05-task-08-screenshot-01-final-automation-script.png)
 
 ---
 
 #### Screenshot 2 — Output of `./final-automation.sh`
 
-Add your screenshot here.
+![Final Automation Output](screenshots/assignment-05-task-08-screenshot-02-final-automation-output.png)
 
 ---
 
 #### Screenshot 3 — Output of `ls -lah` showing all created scripts
 
-Add your screenshot here.
+![All Scripts Listing](screenshots/assignment-05-task-08-screenshot-03-all-scripts-list.png
 
 ---
 
@@ -418,7 +418,7 @@ This script combines several Bash concepts into one automation workflow. Variabl
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/akubuko-japhet_devops-linux-bash-ugcPost-7484390293040103424-8myE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A
 
 `__________________________`
 
@@ -426,7 +426,7 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![LinkedIn Post](screenshots/assignment-05-screenshot-01-linkedin-post.png)
 
 ---
 
