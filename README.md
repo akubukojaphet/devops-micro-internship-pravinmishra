@@ -130,9 +130,9 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_pravinmishra-devops-cloudcomputing-share-7442112336343146496-LNb_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_pravinmishra-devops-cloudcomputing-share-7442112336343146496-LNb_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | www.linkedin.com/posts/akubuko-japhet_pravinmishra-devops-cloudcomputing-share-7442112336343146496-LNb_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_devops-cloudcomputing-careertransition-share-7477343273628545024-jx9V/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://medium.com/@akubukoJaphet/a-nigerian-banking-professional-documenting-his-transition-into-devops-one-evening-at-a-time-40e67a9ffaff?sharedUserId=akubukoJaphet |
-| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_dmibypravinmishra-agenticai-claudecode-share-7481472149384400896-pATu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_dmibypravinmishra-agenticai-claudecode-share-7481472149384400896-pATu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A |  https://www.linkedin.com/posts/akubuko-japhet_dmibypravinmishra-agenticai-claudecode-share-7481472149384400896-pATu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
