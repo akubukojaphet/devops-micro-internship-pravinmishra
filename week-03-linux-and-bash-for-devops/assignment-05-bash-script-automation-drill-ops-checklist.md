@@ -374,7 +374,7 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 3 — Output of `ls -lah` showing all created scripts
 
-![All Scripts Listing](screenshots/assignment-05-task-08-screenshot-03-all-scripts-list.png)
+![Output of ls -lah Showing All Scripts](screenshots/assignment-05-task-08-screenshot-03-ls-lah-all-scripts.png)
 
 ---
 
