@@ -26,7 +26,7 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-![Workspace Directory](screenshots/assignment-05-task-01-screenshot-02-workspace-directory.png)
+![Output of pwd and ls -lah](screenshots/assignment-05-task-01-screenshot-02-pwd-ls-scripts-directory.png)
 
 ---
 
@@ -374,7 +374,7 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 3 — Output of `ls -lah` showing all created scripts
 
-![Output of pwd and ls -lah](screenshots/assignment-05-task-01-screenshot-02-pwd-ls-scripts-directory.png)
+![All Scripts Listing](screenshots/assignment-05-task-08-screenshot-03-all-scripts-list.png)
 
 ---
 
