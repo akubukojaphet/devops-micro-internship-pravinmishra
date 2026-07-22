@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Akubuko Japhet |
-| **LinkedIn** | [akubuko-japhet](https://www.linkedin.com/in/akubuko-japhet/) |
-| **Location** | Lagos, Nigeria |
-| **Background** | Cloud & DevOps |
-| **Goal** | To become a world-class Cloud & DevOps Engineer by building secure, scalable cloud solutions, automating infrastructure, contributing to open source, and continuously learning emerging technologies, including AI. |
+| **Name** | Pravin Mishra |
+| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
+| **Location** | Helsinki, Finland |
+| **Background** | Cloud, DevOps & AI Consultant |
+| **Goal** | Train 10,000+ DevOps professionals |
 
 ---
 
@@ -28,8 +28,8 @@
 
 This is not a course. It is an internship-style program — real deployments, real pipelines, real evidence reviewed by mentors every week.
 
-- 🌐 Program Website: https://dmi.pravinmishra.com
-- 💬 Discord Community: https://discord.pravinmishra.com
+- 🌐 Program Website: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
+- 💬 Discord Community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
 - 📺 YouTube: [Pravin Mishra](https://www.youtube.com/@awswithpravinmishra)
 - 🔗 Instructor: [LinkedIn](https://www.linkedin.com/in/pravin-mishra-aws-trainer/)
 
@@ -65,22 +65,22 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ---
 
-## Your stack:
+**Your stack (uncomment each badge as you earn it):**
 
- Week 00 → Internet & Networking Basics
- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
+<!-- Week 00 → Internet & Networking Basics -->
+<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
 
- Week 01 → Success Mindset
- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
+<!-- Week 01 → Success Mindset -->
+<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
 
- Week 02 → Agentic AI with Claude Code
- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
+<!-- Week 02 → Agentic AI with Claude Code -->
+<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
 
- Week 03 → Linux & Bash for DevOps
-[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
+<!-- Week 03 → Linux & Bash for DevOps -->
+<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
 
- Week 04 → Git & GitHub
-[![Week 04 – Git](./badges/week-04.svg)](./week-04-github/)
+<!-- Week 04 → Git & GitHub -->
+<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
 <!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
@@ -109,7 +109,7 @@ This is not a course. It is an internship-style program — real deployments, re
 <!-- Week 13 → Final Project / Capstone -->
 <!-- [![Week 13 – Capstone](./badges/week-13.svg)](./week-13-final-project/) -->
 
-
+*Complete a week → uncomment the badge → watch your stack grow.*
 
 ---
 
@@ -130,12 +130,12 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_pravinmishra-devops-cloudcomputing-share-7442112336343146496-LNb_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | www.linkedin.com/posts/akubuko-japhet_pravinmishra-devops-cloudcomputing-share-7442112336343146496-LNb_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_devops-cloudcomputing-careertransition-share-7477343273628545024-jx9V/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://medium.com/@akubukoJaphet/a-nigerian-banking-professional-documenting-his-transition-into-devops-one-evening-at-a-time-40e67a9ffaff?sharedUserId=akubukoJaphet |
-| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_dmibypravinmishra-agenticai-claudecode-share-7481472149384400896-pATu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://medium.com/@akubukoJaphet/building-ai-workflows-that-think-before-you-commit-9ee150255493  |
-| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_devops-aws-linux-ugcPost-7483571022114299904-xIC1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://www.linkedin.com/posts/akubuko-japhet_devops-aws-linux-ugcPost-7483909968044175360-nCrQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A |
-| 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_devops-git-github-share-7486472983297908736-LDx5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://medium.com/@akubukoJaphet/from-git-hooks-to-ai-building-a-safer-pull-request-workflow-c296e03f6015 |
-| 05 | DevOps Lifecycle & Agile | 🔄 In Progress | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
+| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
@@ -163,6 +163,6 @@ This is not a course. It is an internship-style program — real deployments, re
 If you found this repo useful or want to follow my DevOps journey:
 
 - ⭐ Star this repo
-- 🔗 Connect with me on [https://www.linkedin.com/in/akubuko-japhet/](#)
-- 🌐 Learn more about the program: https://dmi.pravinmishra.com
-- 💬 Join the community: https://discord.pravinmishra.com
+- 🔗 Connect with me on [LinkedIn](#)
+- 🌐 Learn more about the program: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
+- 💬 Join the community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
