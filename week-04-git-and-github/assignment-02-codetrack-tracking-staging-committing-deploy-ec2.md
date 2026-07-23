@@ -20,13 +20,13 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 1 — Output of `pwd` showing you're inside `CodeTrack`
 
-Add your screenshot here.
+![Current Working Directory](screenshots/assignment-02-task-01-screenshot-01-pwd-codetrack.png)
 
 ---
 
 #### Screenshot 2 — Output of `git status` showing no "not a git repository" error
 
-Add your screenshot here.
+![Git Status](screenshots/assignment-02-task-01-screenshot-02-git-status.png)
 
 ---
 
@@ -40,7 +40,7 @@ Create the two starter UI files inside `CodeTrack`.
 
 #### Screenshot 3 — Output of `ls` showing `index.html` and `style.css`
 
-Add your screenshot here.
+![Starter Files](screenshots/assignment-02-task-02-screenshot-01-created-files.png)
 
 ---
 
@@ -54,7 +54,9 @@ Copy the provided starter HTML and CSS content into your local `index.html` and 
 
 #### Screenshot 4 — Your editor showing the contents of `index.html` and `style.css`
 
-Add your screenshot here.
+![Starter Content](screenshots/assignment-02-task-03-screenshot-01a-editor-content.png)
+
+![Starter Content](screenshots/assignment-02-task-03-screenshot-01b-editor-content.png)
 
 ---
 
@@ -68,13 +70,13 @@ Confirm both files show as untracked, then stage them individually with `git add
 
 #### Screenshot 5 — Output of `git status` showing both files as untracked
 
-Add your screenshot here.
+![Untracked Files](screenshots/assignment-02-task-04-screenshot-01-untracked-files.png)
 
 ---
 
 #### Screenshot 6 — Output of `git status` showing both files staged under "Changes to be committed"
 
-Add your screenshot here.
+![Staged Files](screenshots/assignment-02-task-04-screenshot-02-staged-files.png)
 
 ---
 
@@ -88,13 +90,13 @@ Commit the staged starter files using the message `Initial UI scaffold: add inde
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
+![First Commit](screenshots/assignment-02-task-05-screenshot-01-first-commit.png)
 
 ---
 
 #### Screenshot 8 — Output of `git log --oneline` showing the first commit
 
-Add your screenshot here.
+![Commit History](screenshots/assignment-02-task-05-screenshot-02-first-log.png)
 
 ---
 
@@ -108,25 +110,25 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 9 — Browser showing the updated page with your Student Name and Group Name visible
 
-Add your screenshot here.
+![Updated Homepage](screenshots/assignment-02-task-06-screenshot-01-updated-homepage.png)
 
 ---
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-Add your screenshot here.
+![Modified index.html](screenshots/assignment-02-task-06-screenshot-02-modified-index-html.png)
 
 ---
 
 #### Screenshot 11 — Output of `git commit`
 
-Add your screenshot here.
+![Second Commit](screenshots/assignment-02-task-06-screenshot-03-second-commit.png)
 
 ---
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
-Add your screenshot here.
+![Git Commit History](screenshots/assignment-02-task-06-screenshot-04-two-commits-log.png)
 
 ---
 
@@ -140,19 +142,19 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 13 — Output of `systemctl status nginx --no-pager` showing Nginx `active (running)`
 
-Add your screenshot here.
+![Nginx Status](screenshots/assignment-02-task-07-screenshot-01-nginx-running.png)
 
 ---
 
 #### Screenshot 14 — Output of `curl -I http://localhost` showing `HTTP/1.1 200 OK`
 
-Add your screenshot here.
+![HTTP 200 OK](screenshots/assignment-02-task-07-screenshot-02-http-200-ok.png)
 
 ---
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-Add your screenshot here.
+![CodeTrack Website on EC2](screenshots/assignment-02-task-07-screenshot-03-deployed-website.png)
 
 ---
 
