@@ -20,7 +20,7 @@ Start from a clean default branch (`main` or `master`) and confirm the repositor
 
 #### Screenshot 1 — Output of `git status` and `git branch` showing a clean status and the default branch checked out
 
-Add your screenshot here.
+![Task 1 Screenshot 1](screenshots/assignment-03-task-01-screenshot-01-main-clean-status.png)
 
 ---
 
@@ -34,7 +34,7 @@ Create a branch named exactly `feature/contact-page` and switch to it.
 
 #### Screenshot 2 — Output of `git checkout -b feature/contact-page` and `git branch` showing `* feature/contact-page`
 
-Add your screenshot here.
+![Task 2 Screenshot 1](screenshots/assignment-03-task-02-screenshot-01-feature-branch-created.png)
 
 ---
 
@@ -48,19 +48,19 @@ Create `contact.html` with the provided content and commit it alone using the me
 
 #### Screenshot 3 — Output of `ls` showing `contact.html`
 
-Add your screenshot here.
+![Task 3 Screenshot 1](screenshots/assignment-03-task-03-screenshot-01-contact-file-created.png)
 
 ---
 
 #### Screenshot 4 — Output of `git commit`
 
-Add your screenshot here.
+![Task 3 Screenshot 2](screenshots/assignment-03-task-03-screenshot-02-contact-page-commit.png)
 
 ---
 
 #### Screenshot 5 — Output of `git log --oneline -3` showing the new commit
 
-Add your screenshot here.
+![Task 3 Screenshot 3](screenshots/assignment-03-task-03-screenshot-03-contact-page-log.png)
 
 ---
 
@@ -74,19 +74,19 @@ Add the provided Contact Page link to `index.html` and commit it separately usin
 
 #### Screenshot 6 — Output of `git status` showing `index.html` as modified before staging
 
-Add your screenshot here.
+![Task 4 Screenshot 1](screenshots/assignment-03-task-04-screenshot-01-index-modified.png)
 
 ---
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
+![Task 4 Screenshot 2](screenshots/assignment-03-task-04-screenshot-02-navigation-commit.png)
 
 ---
 
 #### Screenshot 8 — Browser showing the Contact Page link on the homepage while on `feature/contact-page`
 
-Add your screenshot here.
+![Task 4 Screenshot 3](screenshots/assignment-03-task-04-screenshot-03-homepage-contact-link.png)
 
 ---
 
@@ -100,13 +100,13 @@ Switch back to the default branch and confirm that `contact.html` and the Contac
 
 #### Screenshot 9 — Terminal showing the checkout and `ls` output, proving `contact.html` is absent
 
-Add your screenshot here.
+![Task 5 Screenshot 1](screenshots/assignment-03-task-05-screenshot-01-main-before-merge.png)
 
 ---
 
 #### Screenshot 10 — Browser showing the homepage on the default branch with no Contact Page link
 
-Add your screenshot here.
+![Task 5 Screenshot 2](screenshots/assignment-03-task-05-screenshot-02-homepage-before-merge.png)
 
 ---
 
@@ -120,19 +120,19 @@ Merge `feature/contact-page` into your default branch and confirm the Contact pa
 
 #### Screenshot 11 — Output of `git merge feature/contact-page`
 
-Add your screenshot here.
+![Task 6 Screenshot 1](screenshots/assignment-03-task-06-screenshot-01-merge-success.png)
 
 ---
 
 #### Screenshot 12 — Output of `ls` showing `contact.html` after the merge
 
-Add your screenshot here.
+![Task 6 Screenshot 2](screenshots/assignment-03-task-06-screenshot-02-contact-file-after-merge.png)
 
 ---
 
 #### Screenshot 13 — Browser showing the Contact page opened from the homepage link on the default branch
 
-Add your screenshot here.
+![Task 6 Screenshot 3](screenshots/assignment-03-task-06-screenshot-03-contact-page-working.png)
 
 ---
 
@@ -146,7 +146,7 @@ Display the repository history as a graph and locate both feature commits.
 
 #### Screenshot 14 — Full output of `git log --oneline --graph --decorate --all`
 
-Add your screenshot here.
+![Task 7 Screenshot 1](screenshots/assignment-03-task-07-screenshot-01-git-graph-history.png)
 
 ---
 
@@ -160,7 +160,7 @@ Delete the merged `feature/contact-page` branch to keep your branch list clean.
 
 #### Screenshot 15 (Optional) — Output showing `feature/contact-page` deleted and no longer listed
 
-Add your screenshot here.
+![Task 8 Screenshot 1](screenshots/assignment-03-task-08-screenshot-01-feature-branch-deleted.png)
 
 ---
 
