@@ -20,8 +20,7 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-An AWS account is my secure gateway to Amazon Web Services, allowing me to create, manage, and monitor cloud resources from a single place. It also serves as the ownership and billing boundary for everything I deploy.
-At this stage, I need it because all the hands-on labs and projects in the DMI program will be built and managed within this account.
+An AWS account is my secure gateway to Amazon Web Services, allowing me to create, manage, and monitor cloud resources from a single place. It also serves as the ownership and billing boundary for everything I deploy. At this stage, I need it because all the hands-on labs and projects in the DMI program will be built and managed within this account.
 
 ---
 
@@ -33,9 +32,7 @@ AWS Free Tier allows new users to learn and experiment with AWS without paying u
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
- **Amazon S3**: Up to 5 GB of Standard Storage with limited requests each month.
- **Amazon DynamoDB**: Up to 25 GB of storage and limited read/write capacity.
- **AWS Lambda**: 1 million free requests and 400,000 GB-seconds of compute time per month.
+Amazon S3: Up to 5 GB of Standard Storage with limited requests each month. Amazon DynamoDB: Up to 25 GB of storage and limited read/write capacity. AWS Lambda: 1 million free requests and 400,000 GB-seconds of compute time per month.
 
 ---
 
@@ -59,7 +56,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-![Screenshot 1 - AWS Account Page](./screenshots/screenshot-01-aws-account-page.png)
+![AWS Account Page](screenshots/assignment-01-screenshot-01-aws-account-page.png)
 
 ---
 
@@ -91,10 +88,10 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 DMI Official Website: https://pravinmishra.com/dmi  
-- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/  
-- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/  
+- 🌐 DMI Official Website: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme  
+- 🎓 University: https://university.pravinmishra.com?utm_source=github&utm_medium=readme  
+- 💬 Discord Community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme  
+- 📝 Blog: https://dmi.pravinmishra.com/blog?utm_source=github&utm_medium=readme  
 - ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
 - 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
 - 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
