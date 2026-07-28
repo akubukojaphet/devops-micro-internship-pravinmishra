@@ -120,8 +120,6 @@ Verify the deployed website and Nginx service are healthy.
 
 https://www.linkedin.com/posts/akubuko-japhet_devops-aws-linux-ugcPost-7483909968044175360-nCrQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A
 
-`Add your URL here`
-
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer

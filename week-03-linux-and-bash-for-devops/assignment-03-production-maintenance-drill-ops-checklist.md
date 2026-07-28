@@ -380,8 +380,6 @@ Unused cloud resources can still generate charges. Stopping or deleting them hel
 
 https://www.linkedin.com/posts/akubuko-japhet_devops-aws-linux-ugcPost-7483571022114299904-xIC1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A
 
-`Add your URL here`
-
 ---
 
 #### Screenshot — Published LinkedIn post
