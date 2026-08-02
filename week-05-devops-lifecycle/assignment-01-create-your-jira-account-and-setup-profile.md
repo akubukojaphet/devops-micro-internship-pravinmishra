@@ -46,7 +46,9 @@ If you signed up with Google and no separate email verification was required, in
 
 > I signed up using Google, and Atlassian did not require separate email verification.
 
-Add any additional notes here.
+**Note:**
+
+I signed up using Google, and Atlassian did not require separate email verification.
 
 ---
 
