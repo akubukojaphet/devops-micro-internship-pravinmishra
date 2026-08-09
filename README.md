@@ -82,8 +82,8 @@ Week 03 → Linux & Bash for DevOps
 Week 04 → Git & GitHub 
 [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/)
 
-<!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+Week 05 → DevOps Lifecycle & Agile 
+[![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/)
 
 <!-- Week 06 → AWS Cloud -->
 <!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
@@ -135,8 +135,8 @@ Week 04 → Git & GitHub
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_dmibypravinmishra-agenticai-claudecode-share-7481472149384400896-pATu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://medium.com/@akubukoJaphet/building-ai-workflows-that-think-before-you-commit-9ee150255493 |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_devops-aws-linux-ugcPost-7483571022114299904-xIC1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://www.linkedin.com/posts/akubuko-japhet_devops-aws-linux-ugcPost-7483909968044175360-nCrQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_devops-git-github-share-7486472983297908736-LDx5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://medium.com/@akubukoJaphet/from-git-hooks-to-ai-building-a-safer-pull-request-workflow-c296e03f6015 |
-| 05 | DevOps Lifecycle & Agile | 🔄 In Progress | ✅ Solved | - | https://www.linkedin.com/pulse/devops-lifecycle-understanding-journey-from-idea-japhet-akubuko-gtzhe |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://lnkd.in/p/eX3dWsuh | https://www.linkedin.com/pulse/devops-lifecycle-understanding-journey-from-idea-japhet-akubuko-gtzhe |
+| 06 | AWS Cloud | ⬜ 🔄 In Progress | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
