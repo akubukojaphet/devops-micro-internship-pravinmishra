@@ -20,7 +20,7 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 #### Screenshot 1 — Jira "Create project" screen, or the project sidebar after creation
 
-![Screenshot 1 - Jira Project Setup](screenshots/assignment-04/01-jira-project-setup.png)
+![Screenshot 1 - Jira Project Setup](screenshots/01-jira-project-setup.png)
 The Gotto Job – Japhet Akubuko space after creation, sitting alongside the existing DevOps Micro-Internship space. Created from the Scrum template, team-managed, with sample work items deliberately declined so the backlog contains only Stories I authored.
 
 
@@ -51,7 +51,7 @@ Create a Team-managed Scrum project named `Gotto Job – Team <#>` (Team Mode) o
 
 #### Screenshot 2 — Project created page showing the project name and key
 
-![Screenshot 2 - Project Created](screenshots/assignment-04/02-project-created.png)
+![Screenshot 2 - Project Created](screenshots/02-project-created.png)
 
 ---
 
@@ -65,7 +65,7 @@ Create the Epic `Improve Gotto Job UI discoverability & trust` to group the UI i
 
 #### Screenshot 3 — Backlog showing the Epic panel with the Epic visible
 
-![Screenshot 3 - Epic Created](screenshots/assignment-04/03-epic-created.png)
+![Screenshot 3 - Epic Created](screenshots/03-epic-created.png)
 
 ---
 
@@ -79,13 +79,13 @@ Create at least six Stories under the Epic, estimate each with 1, 2, or 3 story 
 
 #### Screenshot 4 — Backlog showing the Epic and at least six Stories under it
 
-![Screenshot 4 - Backlog Stories](screenshots/assignment-04/04-backlog-stories.png)
+![Screenshot 4 - Backlog Stories](screenshots/04-backlog-stories.png)
 
 ---
 
 #### Screenshot 5 — One Story opened showing its Story Points and acceptance criteria filled in
 
-![Screenshot 5 - Story Acceptance Criteria](screenshots/assignment-04/05-story-acceptance-criteria.png)
+![Screenshot 5 - Story Acceptance Criteria](screenshots/05-story-acceptance-criteria.png)
 
 ---
 
@@ -99,7 +99,7 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 #### Screenshot 6 — Backlog showing Story Points visible, or two or three Stories opened showing their points
 
-![Screenshot 6 - Story Points](screenshots/assignment-04/06-story-points.png)
+![Screenshot 6 - Story Points](screenshots/06-story-points.png)
 
 ---
 
@@ -135,13 +135,13 @@ Create Sprint 1, move three or four Stories into it (approximately 3–6 points)
 
 #### Screenshot 7 — Sprint 1 with the selected Stories inside it
 
-![Screenshot 7 - Sprint 1 Scope](screenshots/assignment-04/07-sprint-1-scope.png)
+![Screenshot 7 - Sprint 1 Scope](screenshots/07-sprint-1-scope.png)
 
 ---
 
 #### Screenshot 8 — One Story showing the Sub-tasks created
 
-![Screenshot 8 - Story Sub-tasks](screenshots/assignment-04/08-story-subtasks.png)
+![Screenshot 8 - Story Sub-tasks](screenshots/08-story-subtasks.png)
 
 ---
 
@@ -155,7 +155,7 @@ Open the Burndown Chart and confirm it exists for Sprint 1. It is acceptable if 
 
 #### Screenshot 9 — Burndown Chart page opened, even if empty
 
-![Screenshot 9 - Burndown Chart](screenshots/assignment-04/09-burndown-chart.png)
+![Screenshot 9 - Burndown Chart](screenshots/09-burndown-chart.png)
 
 ---
 
@@ -169,19 +169,19 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 10 — Jira board showing the Story moved to Done
 
-![Screenshot 10 - Story Done](screenshots/assignment-04/10-story-done.png)
+![Screenshot 10 - Story Done](screenshots/10-story-done.png)
 
 ---
 
 #### Screenshot 11 — Git commit output
 
-![Screenshot 11 - Git Commit](screenshots/assignment-04/11-git-commit.png)
+![Screenshot 11 - Git Commit](screenshots/11-git-commit.png)
 
 ---
 
 #### Screenshot 12 — Live URL in the browser showing the UI change, with the URL visible
 
-![Screenshot 12 - Live UI Change](screenshots/assignment-04/12-live-ui-change.png)
+![Screenshot 12 - Live UI Change](screenshots/12-live-ui-change.png)
 
 ---
 
@@ -195,7 +195,7 @@ Add a retro comment covering what went well, what to improve, one Scrum pillar o
 
 #### Screenshot 13 — Jira retro comment visible
 
-![Screenshot 13 - Retro Comment](screenshots/assignment-04/13-retro-comment.png)
+![Screenshot 13 - Retro Comment](screenshots/13-retro-comment.png)
 
 ---
 
@@ -217,7 +217,7 @@ https://lnkd.in/p/eTxMqVCP
 
 #### Screenshot 14 — Published LinkedIn post
 
-![Screenshot 14 - LinkedIn Post](screenshots/assignment-04/14-linkedin-post.png)
+![Screenshot 14 - LinkedIn Post](screenshots/14-linkedin-post.png)
 
 ---
 
