@@ -20,31 +20,36 @@ Build a VPC (10.0.0.0/16) with two public and two private subnets across two Ava
 
 #### Screenshot 1 — VPC details showing CIDR 10.0.0.0/16
 
-![VPC details](screenshots/01-vpc-details.png)
+![VPC details](screenshots/01-vpc-details-10.0.0.0-16.png)
+
 
 ---
 
 #### Screenshot 2 — Subnets list showing four subnets and their Availability Zones
 
-![Four subnets across two Availability Zones](screenshots/02-four-subnets-two-azs.png)
+![Four subnets across two Availability Zones](screenshots/02-four-subnets-two-availability-zones.png)
+
 
 ---
 
 #### Screenshot 3 — Public route table showing the Internet Gateway route and both public-subnet associations
 
-![Public route table](screenshots/03-public-route-table.png)
+![Public route table](screenshots/03-public-route-table-igw-two-subnets.png)
+
 
 ---
 
 #### Screenshot 4 — Private route table showing the NAT Gateway route and both private-subnet associations
 
-![Private route table](screenshots/04-private-route-table.png)
+![Private route table](screenshots/04-private-route-table-nat-two-subnets.png)
+
 
 ---
 
 #### Screenshot 5 — NAT Gateway status showing Available and the Elastic IP
 
-![NAT Gateway available](screenshots/05-nat-gateway-available.png)
+![NAT Gateway available](screenshots/05-nat-gateway-available-elastic-ip.png)
+
 
 ---
 
@@ -58,19 +63,22 @@ Create `ha-alb-sg` (HTTP public), `ha-web-sg` (HTTP only from `ha-alb-sg`, SSH f
 
 #### Screenshot 6 — ALB Security Group inbound rules
 
-![ALB Security Group](screenshots/06-alb-security-group.png)
+![ALB Security Group](screenshots/06-alb-security-group-inbound-http.png)
+
 
 ---
 
 #### Screenshot 7 — EC2 Security Group inbound rules showing the ALB Security Group reference and SSH from your IP
 
-![Web Security Group](screenshots/07-web-security-group.png)
+![Web Security Group](screenshots/07-web-security-group-alb-and-ssh.png)
+
 
 ---
 
 #### Screenshot 8 — RDS Security Group inbound rule showing the database port allowed only from the EC2 Security Group
 
-![RDS Security Group](screenshots/08-rds-security-group.png)
+![RDS Security Group](screenshots/08-rds-security-group-mysql-from-web-sg.png)
+
 
 ---
 
@@ -84,13 +92,15 @@ Launch a private, Multi-AZ RDS database (MySQL or PostgreSQL) using the private 
 
 #### Screenshot 9 — RDS summary showing Multi-AZ = Yes and Publicly accessible = No
 
-![RDS Multi-AZ and private access](screenshots/09-rds-multi-az-private.png)
+![RDS Multi-AZ and private access](screenshots/09a-rds-multi-az-public-access-no.png)
+
 
 ---
 
 #### Screenshot 10 — RDS connectivity section showing the DB Subnet Group and Security Group
 
-![RDS connectivity](screenshots/10-rds-connectivity.png)
+![RDS connectivity](screenshots/10-rds-connectivity-private-subnet-security-group.png)
+
 
 ---
 
@@ -266,7 +276,7 @@ https://lnkd.in/p/eHetFXav
 
 #### Screenshot of LinkedIn post
 
-![LinkedIn Post](screenshots/linkedin-post.png)
+![LinkedIn Post](screenshots/13-linkedin-post.png)
 
 ---
 
