@@ -20,31 +20,31 @@ Build a VPC (10.0.0.0/16) with two public and two private subnets across two Ava
 
 #### Screenshot 1 — VPC details showing CIDR 10.0.0.0/16
 
-Add your screenshot here.
+![VPC details](screenshots/01-vpc-details.png)
 
 ---
 
 #### Screenshot 2 — Subnets list showing four subnets and their Availability Zones
 
-Add your screenshot here.
+![Four subnets across two Availability Zones](screenshots/02-four-subnets-two-azs.png)
 
 ---
 
 #### Screenshot 3 — Public route table showing the Internet Gateway route and both public-subnet associations
 
-Add your screenshot here.
+![Public route table](screenshots/03-public-route-table.png)
 
 ---
 
 #### Screenshot 4 — Private route table showing the NAT Gateway route and both private-subnet associations
 
-Add your screenshot here.
+![Private route table](screenshots/04-private-route-table.png)
 
 ---
 
 #### Screenshot 5 — NAT Gateway status showing Available and the Elastic IP
 
-Add your screenshot here.
+![NAT Gateway available](screenshots/05-nat-gateway-available.png)
 
 ---
 
@@ -58,19 +58,19 @@ Create `ha-alb-sg` (HTTP public), `ha-web-sg` (HTTP only from `ha-alb-sg`, SSH f
 
 #### Screenshot 6 — ALB Security Group inbound rules
 
-Add your screenshot here.
+![ALB Security Group](screenshots/06-alb-security-group.png)
 
 ---
 
 #### Screenshot 7 — EC2 Security Group inbound rules showing the ALB Security Group reference and SSH from your IP
 
-Add your screenshot here.
+![Web Security Group](screenshots/07-web-security-group.png)
 
 ---
 
 #### Screenshot 8 — RDS Security Group inbound rule showing the database port allowed only from the EC2 Security Group
 
-Add your screenshot here.
+![RDS Security Group](screenshots/08-rds-security-group.png)
 
 ---
 
@@ -84,13 +84,13 @@ Launch a private, Multi-AZ RDS database (MySQL or PostgreSQL) using the private 
 
 #### Screenshot 9 — RDS summary showing Multi-AZ = Yes and Publicly accessible = No
 
-Add your screenshot here.
+![RDS Multi-AZ and private access](screenshots/09-rds-multi-az-private.png)
 
 ---
 
 #### Screenshot 10 — RDS connectivity section showing the DB Subnet Group and Security Group
 
-Add your screenshot here.
+![RDS connectivity](screenshots/10-rds-connectivity.png)
 
 ---
 
@@ -104,13 +104,13 @@ Create a Launch Template whose user data installs the web-server runtime, deploy
 
 #### Screenshot 11 — Launch Template details showing that user data exists, including a visible snippet
 
-Add your screenshot here.
+![Launch Template User Data](screenshots/11-launch-template-user-data.png)
 
 ---
 
 #### Screenshot 12 — A running instance created from the template showing that the application responds on port 80 through a local test or browser using its public IP
 
-Add your screenshot here.
+![Test EC2 application](screenshots/12-test-ec2-working.png)
 
 ---
 
@@ -124,13 +124,13 @@ Create an internet-facing ALB across both public subnets with an HTTP listener a
 
 #### Screenshot 13 — ALB details showing two public subnets in two Availability Zones
 
-Add your screenshot here.
+![ALB across two public subnets](screenshots/13-alb-two-public-subnets.png)
 
 ---
 
 #### Screenshot 14 — Target group showing at least one healthy target
 
-Add your screenshot here.
+![Healthy target group](screenshots/14-target-group-healthy.png)
 
 ---
 
@@ -144,13 +144,13 @@ Create an Auto Scaling Group from the Launch Template across both public subnets
 
 #### Screenshot 15 — Auto Scaling Group showing desired, minimum, and maximum capacity and the selected subnet Availability Zones
 
-Add your screenshot here.
+![Auto Scaling Group configuration](screenshots/15-auto-scaling-group-config.png)
 
 ---
 
 #### Screenshot 16 — EC2 instances list showing two running instances in different Availability Zones
 
-Add your screenshot here.
+![Two EC2 instances across two Availability Zones](screenshots/16-two-ec2-instances-two-azs.png)
 
 ---
 
@@ -164,13 +164,13 @@ Confirm the application communicates with the RDS database through the ALB DNS n
 
 #### Screenshot 17 — Browser showing the application loaded through the ALB DNS name with the URL visible
 
-Add your screenshot here.
+![WordPress application through ALB](screenshots/17-wordpress-through-alb.png)
 
 ---
 
 #### Screenshot 18 — Proof of a database write through a UI message or database query output
 
-Add your screenshot here.
+![Database write proof](screenshots/18-database-write-proof.png)
 
 ---
 
@@ -186,25 +186,25 @@ Test B: simulate an Availability Zone impact (stop, detach, or reduce desired ca
 
 #### Screenshot 19 — EC2 showing the terminated instance and the newly launched instance; timestamps are helpful
 
-Add your screenshot here.
+![Auto Scaling Group instance replacement](screenshots/19-asg-instance-replacement.png)
 
 ---
 
 #### Screenshot 20 — Target group showing healthy targets after replacement
 
-Add your screenshot here.
+![Healthy targets after replacement](screenshots/20-target-group-healthy-after-replacement.png)
 
 ---
 
 #### Screenshot 21 — Evidence that an instance was removed, detached, placed in Standby, or stopped in one Availability Zone
 
-Add your screenshot here.
+![Availability Zone impact](screenshots/21-az-impact-instance-stopped.png)
 
 ---
 
 #### Screenshot 22 — Browser showing that the ALB DNS endpoint still works during the change
 
-Add your screenshot here.
+![ALB working during Availability Zone impact](screenshots/22-alb-working-during-az-impact.png)
 
 ---
 
@@ -218,7 +218,7 @@ Summarize the VPC/subnet layout, the ALB and Auto Scaling Group setup, the priva
 
 #### Screenshot 23 — A simple architecture diagram, which may be hand-drawn, or an AWS console overview showing the components
 
-Add your screenshot here.
+![AWS high availability architecture](screenshots/23-aws-ha-architecture.png)
 
 ---
 
@@ -226,19 +226,25 @@ Add your screenshot here.
 
 Summarize the VPC and subnets across the two Availability Zones.
 
-Write your answer here.
+I created the `ha-vpc` VPC using CIDR `10.0.0.0/16` and distributed the network across two Availability Zones. The web tier uses two public subnets, `10.0.1.0/24` and `10.0.2.0/24`, while the database tier uses two private subnets, `10.0.11.0/24` and `10.0.12.0/24`. The public subnets use an Internet Gateway route, while the private subnets use a NAT Gateway route for outbound connectivity. This design provides network redundancy across two Availability Zones.
+
 
 Summarize the ALB and Auto Scaling Group setup.
 
-Write your answer here.
+I deployed an internet-facing Application Load Balancer across two public subnets in separate Availability Zones. The ALB listens on HTTP port 80 and forwards requests to the `ha-web-tg` target group. I created an Auto Scaling Group using the web Launch Template with a desired capacity of 2, minimum capacity of 2, and maximum capacity of 4. The instances are distributed across two Availability Zones and registered with the ALB target group. ELB health checks are enabled so unhealthy instances can be replaced automatically.
+
 
 Summarize the private Multi-AZ RDS setup.
 
-Write your answer here.
+I deployed a MySQL RDS database using a DB Subnet Group containing the two private subnets. Multi-AZ was enabled to provide a standby database in a separate Availability Zone, while Public access was disabled. The database is protected by `ha-db-sg`, which permits MySQL traffic on port 3306 only from the `ha-web-sg` security group. This keeps the database private and accessible only from the web tier.
+
 
 Summarize the results of both high-availability tests.
 
-Write your answer here.
+For Test A, I terminated one web-tier EC2 instance and confirmed that the Auto Scaling Group automatically launched a replacement using the Launch Template. After the replacement completed its startup configuration and passed the ALB health check, the target group returned to a healthy state and the application remained accessible through the ALB.
+
+For Test B, I simulated an Availability Zone impact by stopping one web-tier instance in one Availability Zone. The remaining healthy instance in the other Availability Zone continued serving the application through the ALB DNS endpoint. These tests demonstrated that the web tier can recover from an instance failure and continue serving traffic during an Availability Zone impact.
+
 
 ---
 
@@ -254,13 +260,13 @@ Publish a LinkedIn post about the high-availability build, including the ALB URL
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/eHetFXav
 
 ---
 
 #### Screenshot of LinkedIn post
 
-Add your screenshot here.
+![LinkedIn Post](screenshots/linkedin-post.png)
 
 ---
 
