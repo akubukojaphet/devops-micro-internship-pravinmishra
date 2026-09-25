@@ -21,6 +21,8 @@ Create an architecture diagram showing the custom VPC (10.0.0.0/16), the six sub
 #### Diagram image or link
 
 Add your diagram image or link here.
+<img width="1536" height="1024" alt="ass06-architecture-diagram" src="https://github.com/user-attachments/assets/e2fb615d-2c54-42f1-bbf4-3ea82075973a" />
+
 
 ---
 
