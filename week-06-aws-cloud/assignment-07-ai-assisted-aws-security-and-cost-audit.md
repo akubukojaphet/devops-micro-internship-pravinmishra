@@ -318,34 +318,6 @@ aws ec2 authorize-security-group-ingress \
 
 **2. Why did you scope the new rule to your own IP address instead of leaving it open to `0.0.0.0/0`?**
 
-### 1. Which exact finding did you fix, and what command did you run?
-
-I fixed the **SSH access from anywhere** finding for security group `sg-009fdf808fb5d7b83`. The baseline audit reported that security groups were allowing SSH (port 22) from `0.0.0.0/0`.
-
-First, I removed the unrestricted SSH rule by running:
-
-```bash
-aws ec2 revoke-security-group-ingress \
-  --group-id sg-009fdf808fb5d7b83 \
-  --protocol tcp \
-  --port 22 \
-  --cidr 0.0.0.0/0
-```
-
-I then allowed SSH only from my current public IP by running:
-
-```bash
-MY_IP=$(curl -4 -s ifconfig.me)
-
-aws ec2 authorize-security-group-ingress \
-  --group-id sg-009fdf808fb5d7b83 \
-  --protocol tcp \
-  --port 22 \
-  --cidr "$MY_IP/32"
-```
-
-### 2. Why did you scope the new rule to your own IP address instead of leaving it open to `0.0.0.0/0`?
-
 I scoped the SSH rule to my own public IP because SSH should not be accessible from every IP address on the internet.
 
 `0.0.0.0/0` means that any IPv4 address can attempt to connect to port 22. Restricting the rule to my IP with `/32` allows SSH access only from my current public IPv4 address, which reduces the attack surface and follows the principle of least privilege.
