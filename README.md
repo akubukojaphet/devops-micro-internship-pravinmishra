@@ -97,11 +97,11 @@ Week 08 → Terraform
 Week 09 → Ansible 
 [![Week 09 – Ansible](./badges/week-09.svg)](./week-09-ansible/) 
 
-<!-- Week 10 → Azure DevOps CI/CD -->
-<!-- [![Week 10 – CI/CD](./badges/week-10.svg)](./week-10-azure-devops/) -->
+Week 10 → Azure DevOps CI/CD
+[![Week 10 – CI/CD](./badges/week-10.svg)](./week-10-azure-devops/)
 
-<!-- Week 11 → Docker -->
-<!-- [![Week 11 – Docker](./badges/week-11.svg)](./week-11-docker/) -->
+Week 11 → Docker
+[![Week 11 – Docker](./badges/week-11.svg)](./week-11-docker/)
 
 <!-- Week 12 → Kubernetes -->
 <!-- [![Week 12 – K8s](./badges/week-12.svg)](./week-12-kubernetes/) -->
@@ -140,8 +140,8 @@ Week 09 → Ansible
 | 07 | Azure Cloud | ⬜ 🔄 In Progress | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜  🔄 In Progress | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜  🔄 In Progress | ⏳ Pending | — | — |
-| 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
-| 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
+| 10 | Azure DevOps (CI/CD) | ⬜ 🔄 In Progress | ⏳ Pending | — | — |
+| 11 | Docker | ⬜ 🔄 In Progress | ⏳ Pending | — | — |
 | 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
 | 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
 
