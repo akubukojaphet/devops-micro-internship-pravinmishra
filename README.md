@@ -88,20 +88,20 @@ Week 05 → DevOps Lifecycle & Agile
 Week 06 → AWS Cloud 
 [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) 
 
-<!-- Week 07 → Azure Cloud -->
-<!-- [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) -->
+Week 07 → Azure Cloud 
+[![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) 
 
-<!-- Week 08 → Terraform -->
-<!-- [![Week 08 – Terraform](./badges/week-08.svg)](./week-08-terraform/) -->
+Week 08 → Terraform 
+[![Week 08 – Terraform](./badges/week-08.svg)](./week-08-terraform/) 
 
-<!-- Week 09 → Ansible -->
-<!-- [![Week 09 – Ansible](./badges/week-09.svg)](./week-09-ansible/) -->
+Week 09 → Ansible 
+[![Week 09 – Ansible](./badges/week-09.svg)](./week-09-ansible/) 
 
-<!-- Week 10 → Azure DevOps CI/CD -->
-<!-- [![Week 10 – CI/CD](./badges/week-10.svg)](./week-10-azure-devops/) -->
+Week 10 → Azure DevOps CI/CD
+[![Week 10 – CI/CD](./badges/week-10.svg)](./week-10-azure-devops/)
 
-<!-- Week 11 → Docker -->
-<!-- [![Week 11 – Docker](./badges/week-11.svg)](./week-11-docker/) -->
+Week 11 → Docker
+[![Week 11 – Docker](./badges/week-11.svg)](./week-11-docker/)
 
 <!-- Week 12 → Kubernetes -->
 <!-- [![Week 12 – K8s](./badges/week-12.svg)](./week-12-kubernetes/) -->
@@ -136,12 +136,12 @@ Week 06 → AWS Cloud
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_devops-aws-linux-ugcPost-7483571022114299904-xIC1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://www.linkedin.com/posts/akubuko-japhet_devops-aws-linux-ugcPost-7483909968044175360-nCrQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_devops-git-github-share-7486472983297908736-LDx5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://medium.com/@akubukoJaphet/from-git-hooks-to-ai-building-a-safer-pull-request-workflow-c296e03f6015 |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_devops-aws-jira-share-7494148025209151489-e4kJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://medium.com/@akubukoJaphet/the-devops-lifecycle-understanding-the-journey-from-an-idea-to-production-ca6d37e9a27b |
-| 06 | AWS Cloud | ⬜ 🔄 In Progress | ⏳ Pending | — | — |
+| 06 | AWS Cloud | ⬜ ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_aws-devops-cloudcomputing-share-7502793475738927104-K4o_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | — |
 | 07 | Azure Cloud | ⬜ 🔄 In Progress | ⏳ Pending | — | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
-| 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
-| 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
-| 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
+| 08 | Terraform | ⬜  🔄 In Progress | ⏳ Pending | — | — |
+| 09 | Ansible | ⬜  🔄 In Progress | ⏳ Pending | — | — |
+| 10 | Azure DevOps (CI/CD) | ⬜ 🔄 In Progress | ⏳ Pending | — | — |
+| 11 | Docker | ⬜ 🔄 In Progress | ⏳ Pending | — | — |
 | 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
 | 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
 
