@@ -20,19 +20,19 @@ Prepare your local environment for Terraform deployment by installing Terraform,
 
 #### Screenshot 1 — Terminal showing successful `terraform version` output
 
-Add your screenshot here.
+<img width="959" height="305" alt="01-terraform-version" src="https://github.com/user-attachments/assets/8e7d5873-99e0-4444-92ca-fe257608d03b" />
 
 ---
 
 #### Screenshot 2 — Terminal showing successful `az version` output
 
-Add your screenshot here.
+<img width="959" height="313" alt="02-azure-cli-version" src="https://github.com/user-attachments/assets/2d845ea5-a1db-4c7b-ab70-a4220452e94a" />
 
 ---
 
 #### Screenshot 3 — VS Code Extensions panel showing the HashiCorp Terraform extension installed and enabled
 
-Add your screenshot here.
+<img width="959" height="464" alt="03-hashicorp-terraform-extension" src="https://github.com/user-attachments/assets/7d40c231-23bb-4207-a3af-406bf07afc77" />
 
 ---
 
@@ -46,13 +46,13 @@ Create a new Terraform project and define the complete Azure Virtual Machine env
 
 #### Screenshot 4 — VS Code showing the AzureRM provider configuration and resource group configuration in `main.tf`
 
-Add your screenshot here.
+<img width="731" height="503" alt="04-terraform-provider-resource-group" src="https://github.com/user-attachments/assets/b03a9bf4-cec8-4ab2-a8b9-2333f4ce225d" />
 
 ---
 
 #### Screenshot 5 — VS Code showing the Linux virtual machine configuration and public IP `output` block in `main.tf`. Ensure that the VM password is hidden or redacted
 
-Add your screenshot here.
+<img width="734" height="490" alt="05-linux-vm-public-ip-output" src="https://github.com/user-attachments/assets/7ccc29e1-53e1-43f1-b8a9-ca4e4fb1810c" />
 
 ---
 
@@ -66,7 +66,7 @@ Initialize the Terraform working directory and download the required provider co
 
 #### Screenshot 6 — Terminal showing the successful `terraform init` output
 
-Add your screenshot here.
+<img width="894" height="434" alt="06-terraform-init-success" src="https://github.com/user-attachments/assets/db6acfd9-d09f-47e7-9214-5828f4e8be16" />
 
 ---
 
@@ -80,19 +80,19 @@ Review the Terraform execution plan and provision the Azure resources.
 
 #### Screenshot 7 — Terraform plan summary showing the proposed resources
 
-Add your screenshot here.
+<img width="956" height="520" alt="07-terraform-plan" src="https://github.com/user-attachments/assets/2ec4e664-af21-462e-9b26-78ec756209ec" />
 
 ---
 
 #### Screenshot 8 — Terraform apply output showing successful completion
 
-Add your screenshot here.
+<img width="956" height="521" alt="08-terraform-apply-success" src="https://github.com/user-attachments/assets/d4666b4c-c604-4159-8016-b52cd4069f19" />
 
 ---
 
 #### Screenshot 9 — Terraform output showing the public IP address of the VM
 
-Add your screenshot here.
+<img width="959" height="249" alt="09-terraform-public-ip" src="https://github.com/user-attachments/assets/f2e5b155-f095-4cf0-bad4-0e649ff2be04" />
 
 ### Question
 
@@ -110,7 +110,7 @@ Confirm through Azure CLI that the virtual machine was created successfully and 
 
 #### Screenshot 10 — Azure CLI output showing the deployed VM name and `VM running` status
 
-Add your screenshot here.
+<img width="919" height="202" alt="10-azure-vm-running" src="https://github.com/user-attachments/assets/ea4fe303-0a51-4d74-94bc-5fc3e8c0b1e2" />
 
 ---
 
@@ -124,7 +124,7 @@ Remove all Azure resources created by Terraform after completing the deployment 
 
 #### Screenshot 11 — Terminal showing successful `terraform destroy` completion
 
-Add your screenshot here.
+<img width="959" height="502" alt="11-terraform-destroy-success" src="https://github.com/user-attachments/assets/b565085a-b4d6-47aa-be5c-80e2546fee3b" />
 
 ---
 
@@ -138,7 +138,7 @@ Share your Terraform deployment progress on WhatsApp by using Screenshot 8, the 
 
 #### Screenshot 12 — Published WhatsApp Status showing your Terraform deployment progress and DMI Leaderboard progress link
 
-Add your screenshot here.
+<img width="620" height="329" alt="12-whatsapp-terraform-progress" src="https://github.com/user-attachments/assets/aec82c90-e176-42f2-be42-f2d8b0b1f22b" />
 
 > Ensure that no passwords, account IDs, subscription IDs, private phone numbers, or personal messages are visible.
 
