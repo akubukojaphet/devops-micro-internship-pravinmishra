@@ -24,7 +24,7 @@ Prepare your local environment for Terraform deployment by installing Terraform,
 
 Ensure that your full name is visible and that no AWS credentials, account IDs, or other sensitive information are exposed.
 
-Add your screenshot here.
+<img width="958" height="269" alt="Screenshot1_AWS_CLI_Version" src="https://github.com/user-attachments/assets/aa9ec4ff-6d57-4d46-acea-54e4916df2f0" />
 
 ---
 
@@ -54,7 +54,7 @@ The configuration must include:
 
 #### Screenshot 2 — VS Code showing the AWS provider configuration and VPC configuration in `main.tf`
 
-Add your screenshot here.
+<img width="955" height="473" alt="Screenshot 2026-10-05 224839" src="https://github.com/user-attachments/assets/8460a97c-9187-4ee7-8423-f8c65e7c8184" />
 
 ---
 
@@ -62,7 +62,7 @@ Add your screenshot here.
 
 Ensure that no AWS credentials, private keys, account IDs, or other sensitive information are visible.
 
-Add your screenshot here.
+<img width="957" height="463" alt="Screenshot3_EC2_And_Output" src="https://github.com/user-attachments/assets/e66e8683-09c5-417a-b2e3-ae4e65247427" />
 
 ---
 
@@ -76,7 +76,7 @@ Initialize the Terraform working directory and download the required provider co
 
 #### Screenshot 4 — Terminal showing the successful `terraform init` output
 
-Add your screenshot here.
+<img width="957" height="437" alt="Screenshot4_Terraform_Init" src="https://github.com/user-attachments/assets/f52ba6ba-3e1c-4fc8-8a62-763cebdf5317" />
 
 ---
 
@@ -90,19 +90,19 @@ Review the Terraform execution plan, provision the AWS resources, and record the
 
 #### Screenshot 5 — Terraform plan summary showing the proposed resources
 
-Add your screenshot here.
+<img width="957" height="512" alt="Screenshot5_Terraform_Plan" src="https://github.com/user-attachments/assets/95c17b70-a496-4144-9810-98fa29bc400f" />
 
 ---
 
 #### Screenshot 6 — Terraform apply output showing successful completion
 
-Add your screenshot here.
+<img width="959" height="517" alt="Screenshot6_Terraform_Apply" src="https://github.com/user-attachments/assets/12928b86-91b1-432c-9839-d488fcf33132" />
 
 ---
 
 #### Screenshot 7 — Terraform output showing the public IP address of the EC2 instance
 
-Add your screenshot here.
+<img width="952" height="246" alt="Screenshot7_Terraform_Output" src="https://github.com/user-attachments/assets/b9d5b0a4-59fe-4636-aeb1-641df6164de6" />
 
 ---
 
@@ -110,7 +110,7 @@ Add your screenshot here.
 
 Record the public IP address displayed by `terraform output`.
 
-**EC2 Public IP Address:** `Add the public IP address here`
+**EC2 Public IP Address:** 3.228.10.172
 
 ---
 
@@ -132,13 +132,13 @@ Confirm that:
 
 #### Screenshot 8 — AWS CLI output showing the EC2 instance ID, `running` state, and public IP address
 
-Add your screenshot here.
+<img width="958" height="268" alt="Screenshot8_AWS_CLI_Running_Instance" src="https://github.com/user-attachments/assets/4a53171b-90bf-4ec9-a0d8-44d58d81a5a2" />
 
 ---
 
 #### Screenshot 9 — Browser showing the Nginx page successfully loaded using the EC2 instance public IP
 
-Add your screenshot here.
+<img width="959" height="310" alt="Screenshot9_Nginx_Browser" src="https://github.com/user-attachments/assets/f2e5cfdc-5760-447f-814b-483724b589a8" />
 
 ---
 
@@ -152,7 +152,7 @@ Remove all AWS resources created by Terraform after completing the deployment an
 
 #### Screenshot 10 — Terminal showing successful `terraform destroy` completion
 
-Add your screenshot here.
+<img width="958" height="516" alt="Screenshot10_Terraform_Destroy" src="https://github.com/user-attachments/assets/442ec005-af31-4d22-a540-f354dd1bb264" />
 
 ---
 
@@ -166,7 +166,7 @@ Share your AWS Terraform deployment progress by using either Facebook or WhatsAp
 
 #### Screenshot 11 — Published Facebook post/Story or WhatsApp Status showing Terraform deployment progress and DMI Leaderboard progress link
 
-Add your screenshot here.
+<img width="506" height="1080" alt="Screenshot11_Social_Share" src="https://github.com/user-attachments/assets/5d7e3d8e-6998-4742-b6b1-bf9b2647252d" />
 
 > Use Screenshot 6 — successful `terraform apply` output — as the assignment image for your post or Status. Ensure that no AWS credentials, private keys, account IDs, private phone numbers, or personal messages are visible.
 
