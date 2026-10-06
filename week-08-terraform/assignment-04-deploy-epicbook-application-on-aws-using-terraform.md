@@ -447,7 +447,7 @@ Remove all AWS resources created by the modular Terraform configuration.
 
 Add a screenshot of the terminal showing successful `terraform destroy` completion.
 
-![Terraform Destroy](15-terraform-destroy.png)
+![Terraform Destroy](screenshots/34_terraform_destroy.png)
 
 ---
 
