@@ -1,3 +1,22 @@
 Ultimate-Agentic-DevOps-with-Claude-Code/
 .claude/settings.local.json
 .claude/
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+
+# Terraform crash logs
+crash.log
+crash.*.log
+
+# Sensitive/local files
+*.pem
+*.key
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
