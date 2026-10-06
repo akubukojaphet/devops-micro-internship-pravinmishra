@@ -24,7 +24,7 @@ Prepare your local environment for Terraform deployment by installing Terraform,
 
 Add a screenshot of the terminal showing successful `terraform version` output.
 
-Add your screenshot here.
+<img width="959" height="305" alt="01-terraform-version" src="https://github.com/user-attachments/assets/5300b389-2203-421c-9182-b7a7bba85250" />
 
 ---
 
@@ -32,7 +32,7 @@ Add your screenshot here.
 
 Add a screenshot of the terminal showing successful `az version` output.
 
-Add your screenshot here.
+<img width="1917" height="625" alt="image" src="https://github.com/user-attachments/assets/f2953bc5-e24e-4b9f-b1d6-8d0705d4230f" />
 
 ---
 
@@ -40,7 +40,7 @@ Add your screenshot here.
 
 Add a screenshot of the VS Code Extensions panel showing the HashiCorp Terraform extension installed and enabled.
 
-Add your screenshot here.
+<img width="1918" height="927" alt="image" src="https://github.com/user-attachments/assets/cd7fabd1-253d-4b67-aeee-eb338b24fa1a" />
 
 ---
 
@@ -80,7 +80,7 @@ The `cloud-init.sh` file must contain the complete automated React application d
 
 Add a screenshot of VS Code showing the AzureRM provider, resource group, and Network Security Group configuration in `main.tf`.
 
-Add your screenshot here.
+<img width="959" height="506" alt="Screenshot 4 — Provider, Resource Group, and Network Security Group" src="https://github.com/user-attachments/assets/a2c4d661-0036-4b28-90d3-527ae850304c" />
 
 ---
 
@@ -90,7 +90,7 @@ Add a screenshot of VS Code showing the Linux virtual machine configuration, inc
 
 Ensure that passwords, private keys, account IDs, access tokens, and other sensitive information are hidden.
 
-Add your screenshot here.
+<img width="958" height="505" alt="05-linux-vm-custom-data" src="https://github.com/user-attachments/assets/40b45f02-ef3e-484d-b7af-a81a51d606fc" />
 
 ---
 
@@ -100,7 +100,7 @@ Add a screenshot of VS Code showing the completed `cloud-init.sh` deployment scr
 
 Ensure that no passwords, Azure credentials, access tokens, SSH private keys, or other sensitive information are visible.
 
-Add your screenshot here.
+<img width="957" height="464" alt="Screenshot 2026-10-06 010025" src="https://github.com/user-attachments/assets/eb19ef35-d852-43ba-9a77-a017ab8b987c" />
 
 ---
 
@@ -108,7 +108,7 @@ Add your screenshot here.
 
 Add a screenshot of VS Code showing the public IP `output` block in `main.tf`.
 
-Add your screenshot here.
+<img width="955" height="463" alt="07-public-ip-output" src="https://github.com/user-attachments/assets/04123db4-632d-4490-8f79-c8cf9e1c3076" />
 
 ---
 
@@ -124,7 +124,7 @@ Initialize the Terraform working directory and download the required provider co
 
 Add a screenshot of the terminal showing successful `terraform init` output.
 
-Add your screenshot here.
+<img width="956" height="482" alt="08-terraform-init" src="https://github.com/user-attachments/assets/de99babb-6d5c-46f9-9d8a-8755042c69e8" />
 
 ---
 
@@ -140,7 +140,7 @@ Review the Terraform execution plan and provision the Azure infrastructure.
 
 Add a screenshot showing the Terraform plan summary and the proposed resources.
 
-Add your screenshot here.
+<img width="957" height="519" alt="09-terraform-plan" src="https://github.com/user-attachments/assets/98cab848-92a8-40f8-8c05-797c4c05793c" />
 
 ---
 
@@ -148,7 +148,7 @@ Add your screenshot here.
 
 Add a screenshot showing successful `terraform apply` completion.
 
-Add your screenshot here.
+<img width="958" height="505" alt="10-terraform-apply" src="https://github.com/user-attachments/assets/fed639d0-8b43-405e-ac03-c0e4e40f6c1c" />
 
 ---
 
@@ -156,7 +156,7 @@ Add your screenshot here.
 
 Add a screenshot showing the VM public IP address returned by `terraform output`.
 
-Add your screenshot here.
+<img width="1902" height="571" alt="image" src="https://github.com/user-attachments/assets/001ae732-3ae7-4537-bf86-3fd69323adbb" />
 
 ## VM Public IP Address
 
@@ -178,7 +178,7 @@ Connect to the Azure Linux virtual machine and confirm that the cloud-init/user 
 
 Add a screenshot of SSH terminal showing successful connection to the Azure VM and evidence that the React application deployment completed such as the deployed files in `/var/www/html` or successful cloud-init output.
 
-Add your screenshot here.
+<img width="1900" height="1007" alt="image" src="https://github.com/user-attachments/assets/162e19ca-11eb-437a-80a1-3e17085abe6a" />
 
 ---
 
@@ -186,7 +186,7 @@ Add your screenshot here.
 
 Add a screenshot of the terminal showing that the Nginx service is running successfully.
 
-Add your screenshot here.
+<img width="1915" height="757" alt="image" src="https://github.com/user-attachments/assets/e26dbd3e-53b5-4f8b-ac76-d3164c4a1ca0" />
 
 ---
 
@@ -204,7 +204,7 @@ Add a screenshot of the browser showing the deployed React application successfu
 
 Ensure that the Azure VM public IP is visible in the browser address bar.
 
-Add your screenshot here.
+<img width="1918" height="864" alt="image" src="https://github.com/user-attachments/assets/6d0d537b-5ae5-4499-84f4-2a4786e06a22" />
 
 ---
 
@@ -220,7 +220,7 @@ Remove all Azure resources created by Terraform after completing the application
 
 Add a screenshot of the terminal showing successful `terraform destroy` completion.
 
-Add your screenshot here.
+<img width="1911" height="1027" alt="image" src="https://github.com/user-attachments/assets/6a31949b-0692-45bd-82da-7d7dbf3885a5" />
 
 ---
 
@@ -261,7 +261,7 @@ Add a screenshot of your published LinkedIn post showing:
 
 Ensure that no passwords, private keys, account IDs, access tokens, or other sensitive information are visible.
 
-Add your screenshot here.
+<img width="1918" height="1123" alt="image" src="https://github.com/user-attachments/assets/0f703999-4bf1-4e6d-99cd-b500f1012bbf" />
 
 ---
 
