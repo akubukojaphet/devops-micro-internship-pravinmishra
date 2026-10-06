@@ -24,7 +24,7 @@ Prepare your local environment by installing Terraform, AWS CLI, and the HashiCo
 
 Add a screenshot of the terminal showing successful `terraform version` output.
 
-![Terraform Version](Screenshot-01-Terraform-Version.png)
+![Terraform Version](screenshots/Screenshot-01-Terraform-Version.png)
 
 ---
 
@@ -32,7 +32,7 @@ Add a screenshot of the terminal showing successful `terraform version` output.
 
 Add a screenshot of the terminal showing successful `aws --version` output.
 
-![AWS CLI Version](Screenshot-02-AWS-CLI-Version.png)
+![AWS CLI Version](screenshots/Screenshot-02-AWS-CLI-Version.png)
 
 ---
 
@@ -40,7 +40,7 @@ Add a screenshot of the terminal showing successful `aws --version` output.
 
 Add a screenshot of VS Code showing the HashiCorp Terraform extension installed and enabled.
 
-![HashiCorp Terraform Extension](Screenshot-03-HashiCorp-Terraform-Extension.png)
+![HashiCorp Terraform Extension](screenshots/Screenshot-03-HashiCorp-Terraform-Extension.png)
 
 ---
 
@@ -80,7 +80,7 @@ terraform-aws-epicbook/
 
 Add a screenshot of the VS Code Explorer showing the complete root project and the `network`, `ec2`, and `rds` module directory structure.
 
-![Project Structure](04_project_structure.png)
+![Project Structure](screenshots/04_project_structure.png)
 
 ---
 
@@ -109,7 +109,7 @@ The network module must include:
 
 Add a screenshot of VS Code showing the VPC, public subnet, and two private database subnet configurations.
 
-![VPC and Subnets](05_vpc_and_subnets.png)
+![VPC and Subnets](screenshots/05_vpc_and_subnets.png)
 
 ---
 
@@ -117,7 +117,7 @@ Add a screenshot of VS Code showing the VPC, public subnet, and two private data
 
 Add a screenshot of VS Code showing the Internet Gateway, public route table, and route table association.
 
-![Internet Gateway and Routing](06_igw_and_routing.png)
+![Internet Gateway and Routing](screenshots/06_igw_and_routing.png)
 
 ---
 
@@ -125,7 +125,7 @@ Add a screenshot of VS Code showing the Internet Gateway, public route table, an
 
 Add a screenshot of VS Code showing the EC2 and RDS Security Groups, including MySQL access from the EC2 Security Group only.
 
-![Security Groups](07_security_groups.png)
+![Security Groups](screenshots/07_security_groups.png)
 
 ---
 
@@ -133,7 +133,7 @@ Add a screenshot of VS Code showing the EC2 and RDS Security Groups, including M
 
 Add a screenshot of VS Code showing the network module outputs.
 
-![Network Outputs](08_network_outputs.png)
+![Network Outputs](screenshots/08_network_outputs.png)
 
 ---
 
@@ -161,7 +161,7 @@ The `user_data.sh` script must install the required software without storing dat
 
 Add a screenshot of VS Code showing the EC2 resource and `user_data` configuration.
 
-![EC2 Resource and User Data](09_ec2_resource_userdata.png)
+![EC2 Resource and User Data](screenshots/09_ec2_resource_userdata.png)
 
 ---
 
@@ -171,7 +171,7 @@ Add a screenshot of VS Code showing `user_data.sh`.
 
 Ensure that no credentials, passwords, private keys, access tokens, or application secrets are visible.
 
-![User Data Script](10_user_data_sh.png)
+![User Data Script](screenshots/10_user_data_sh.png)
 
 ---
 
@@ -179,7 +179,7 @@ Ensure that no credentials, passwords, private keys, access tokens, or applicati
 
 Add a screenshot of VS Code showing the EC2 module variables and outputs.
 
-![EC2 Variables and Outputs](11_ec2_variables_outputs.png)
+![EC2 Variables and Outputs](screenshots/11_ec2_variables_outputs.png)
 
 ---
 
@@ -205,7 +205,7 @@ The RDS module must include:
 
 Add a screenshot of VS Code showing the DB subnet group and RDS MySQL configuration.
 
-![RDS Subnet Group](12_db_subnet_group_rds.png)
+![RDS Subnet Group](screenshots/12_db_subnet_group_rds.png)
 
 ---
 
@@ -215,7 +215,7 @@ Add a screenshot of VS Code showing `publicly_accessible = false`, the RDS Secur
 
 Ensure that the database password and other sensitive values are hidden.
 
-![Private RDS Sensitive Variables](13_private_rds_sensitive_vars.png)
+![Private RDS Sensitive Variables](screenshots/13_private_rds_sensitive_vars.png)
 
 ---
 
@@ -223,7 +223,7 @@ Ensure that the database password and other sensitive values are hidden.
 
 Add a screenshot of VS Code showing the RDS endpoint output.
 
-![RDS Endpoint Output](14_rds_endpoint_output.png)
+![RDS Endpoint Output](screenshots/14_rds_endpoint_output.png)
 
 ---
 
@@ -239,7 +239,7 @@ Use the root Terraform configuration to call the Network, EC2, and RDS modules a
 
 Add a screenshot of VS Code showing the root `main.tf` with the Network, EC2, and RDS module blocks.
 
-![Root Module Blocks](15_root_module_blocks.png)
+![Root Module Blocks](screenshots/15_root_module_blocks.png)
 
 ---
 
@@ -247,7 +247,7 @@ Add a screenshot of VS Code showing the root `main.tf` with the Network, EC2, an
 
 Add a screenshot of VS Code showing values passed from the Network module to the EC2 and RDS modules.
 
-![Values Passed Between Modules](16_values_passed_between_modules.png)
+![Values Passed Between Modules](screenshots/16_values_passed_between_modules.png)
 
 ---
 
@@ -255,7 +255,7 @@ Add a screenshot of VS Code showing values passed from the Network module to the
 
 Add a screenshot of VS Code showing the root EC2 public IP and RDS endpoint outputs.
 
-![Root Outputs](17_root_outputs.png)
+![Root Outputs](screenshots/17_root_outputs.png)
 
 ---
 
@@ -271,7 +271,7 @@ Initialize the modular Terraform project, validate the configuration, review the
 
 Add a screenshot of the terminal showing successful `terraform init` output.
 
-![Terraform Init](18_terraform_init.png)
+![Terraform Init](screenshots/18_terraform_init.png)
 
 ---
 
@@ -279,7 +279,7 @@ Add a screenshot of the terminal showing successful `terraform init` output.
 
 Add a screenshot of the terminal showing successful `terraform validate` output.
 
-![Terraform Validate](19_terraform_validate.png)
+![Terraform Validate](screenshots/19_terraform_validate.png)
 
 ---
 
@@ -287,7 +287,7 @@ Add a screenshot of the terminal showing successful `terraform validate` output.
 
 Add a screenshot showing the Terraform plan summary and proposed resources.
 
-![Terraform Plan](20_terraform_plan.png)
+![Terraform Plan](screenshots/20_terraform_plan.png)
 
 ---
 
@@ -295,7 +295,7 @@ Add a screenshot showing the Terraform plan summary and proposed resources.
 
 Add a screenshot showing successful `terraform apply` completion.
 
-![Terraform Apply](21_terraform_apply.png)
+![Terraform Apply](screenshots/21_terraform_apply.png)
 
 ---
 
@@ -303,7 +303,7 @@ Add a screenshot showing successful `terraform apply` completion.
 
 Add a screenshot showing the EC2 public IP and RDS endpoint returned by `terraform output`.
 
-![Terraform Outputs](22_terraform_outputs.png)
+![Terraform Outputs](screenshots/22_terraform_outputs.png)
 
 ---
 
@@ -319,7 +319,7 @@ Verify that the EC2 and RDS resources were successfully provisioned and confirm 
 
 Add a screenshot of AWS CLI showing the EC2 instance running.
 
-![EC2 Running](23_ec2_running_cli.png)
+![EC2 Running](screenshots/23_ec2_running_cli.png)
 
 ---
 
@@ -327,7 +327,7 @@ Add a screenshot of AWS CLI showing the EC2 instance running.
 
 Add a screenshot of AWS CLI showing that RDS is available and not publicly accessible.
 
-![RDS Available from Private CLI](24_rds_available_private_cli.png)
+![RDS Available from Private CLI](screenshots/24_rds_available_private_cli.png)
 
 ---
 
@@ -335,7 +335,7 @@ Add a screenshot of AWS CLI showing that RDS is available and not publicly acces
 
 Add a screenshot of the EC2 terminal showing the required software version checks and the active Nginx service.
 
-![Software Versions and Nginx Active](25_software_versions_nginx_active.png)
+![Software Versions and Nginx Active](screenshots/25_software_versions_nginx_active.png)
 
 ---
 
@@ -353,7 +353,7 @@ Add a screenshot of the terminal showing a successful connection from EC2 to Ama
 
 Ensure that the database password is not visible.
 
-![EC2 to RDS Connection](26_ec2_to_rds_connection.png)
+![EC2 to RDS Connection](screenshots/26_ec2_to_rds_connection.png)
 
 ---
 
@@ -361,7 +361,7 @@ Ensure that the database password is not visible.
 
 Add a screenshot of the terminal showing the EpicBook tables and imported data.
 
-![Tables and Seed Data](27_tables_and_seed_data.png)
+![Tables and Seed Data](screenshots/27_tables_and_seed_data.png)
 
 ---
 
@@ -377,7 +377,7 @@ Install EpicBook dependencies, configure the application to use Amazon RDS, conf
 
 Add a screenshot of the terminal showing successful dependency installation and the `node_modules` directory.
 
-![NPM Install and Node Modules](28_npm_install_node_modules.png)
+![NPM Install and Node Modules](screenshots/28_npm_install_node_modules.png)
 
 ---
 
@@ -385,7 +385,7 @@ Add a screenshot of the terminal showing successful dependency installation and 
 
 Add a screenshot of the terminal showing a successful Nginx configuration test and active service status.
 
-![Nginx Test and Status](29_nginx_test_and_status.png)
+![Nginx Test and Status](screenshots/29_nginx_test_and_status.png)
 
 ---
 
@@ -393,7 +393,7 @@ Add a screenshot of the terminal showing a successful Nginx configuration test a
 
 Add a screenshot of the terminal showing EpicBook running or listening on port `8080`.
 
-![EpicBook Port 8080](30_epicbook_port_8080.png)
+![EpicBook Port 8080](screenshots/30_epicbook_port_8080.png)
 
 ---
 
@@ -413,7 +413,7 @@ Verify that EpicBook, EC2, Nginx, and Amazon RDS work together successfully.
 
 Add a screenshot of the browser showing EpicBook using the EC2 public IP.
 
-![EpicBook Browser Using Public IP](31_epicbook_browser_public_ip.png)
+![EpicBook Browser Using Public IP](screenshots/31_epicbook_browser_public_ip.png)
 
 ---
 
@@ -421,7 +421,7 @@ Add a screenshot of the browser showing EpicBook using the EC2 public IP.
 
 Add a screenshot of the browser showing a successful cart or checkout action.
 
-![Cart or Checkout Browser](32_cart_or_checkout_browser.png)
+![Cart or Checkout Browser](screenshots/32_cart_or_checkout_browser.png)
 
 ---
 
@@ -431,7 +431,7 @@ Add a screenshot of the terminal showing the corresponding RDS database record c
 
 Ensure that database credentials and other sensitive values are not visible.
 
-![RDS Cart Record](33_rds_cart_record.png)
+![RDS Cart Record](screenshots/33_rds_cart_record.png)
 
 ---
 
@@ -465,7 +465,7 @@ Write the post in your own words and include at least one deployment screenshot 
 
 Add a screenshot of the published LinkedIn post showing the post and at least one deployment image or other proof.
 
-![LinkedIn Post](35_Linkedin_Post.png)
+![LinkedIn Post](screenshots/35_Linkedin_Post.png)
 
 ## LinkedIn Post URL
 
