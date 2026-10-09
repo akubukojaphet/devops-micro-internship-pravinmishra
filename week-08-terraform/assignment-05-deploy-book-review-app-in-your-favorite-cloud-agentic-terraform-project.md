@@ -299,7 +299,7 @@ Add a screenshot showing successful database reads and writes.
 
 ## Public Application URL
 
-**Public Application URL / DNS:** Add the working public application URL or load-balancer DNS here
+**Public Application URL / DNS:** http://book-review-dev-pub-alb-1827438317.us-east-1.elb.amazonaws.com/
 
 ---
 
