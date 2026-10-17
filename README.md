@@ -103,8 +103,8 @@ Week 10 → Azure DevOps CI/CD
 Week 11 → Docker
 [![Week 11 – Docker](./badges/week-11.svg)](./week-11-docker/)
 
-<!-- Week 12 → Kubernetes -->
-<!-- [![Week 12 – K8s](./badges/week-12.svg)](./week-12-kubernetes/) -->
+Week 12 → Kubernetes 
+[![Week 12 – K8s](./badges/week-12.svg)](./week-12-kubernetes/)
 
 <!-- Week 13 → Final Project / Capstone -->
 <!-- [![Week 13 – Capstone](./badges/week-13.svg)](./week-13-final-project/) -->
@@ -137,10 +137,10 @@ Week 11 → Docker
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_devops-git-github-share-7486472983297908736-LDx5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://medium.com/@akubukoJaphet/from-git-hooks-to-ai-building-a-safer-pull-request-workflow-c296e03f6015 |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_devops-aws-jira-share-7494148025209151489-e4kJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://medium.com/@akubukoJaphet/the-devops-lifecycle-understanding-the-journey-from-an-idea-to-production-ca6d37e9a27b |
 | 06 | AWS Cloud | ⬜ ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_aws-devops-cloudcomputing-share-7502793475738927104-K4o_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | — |
-| 07 | Azure Cloud | ⬜ 🔄 In Progress | ⏳ Pending | — | — |
-| 08 | Terraform | ⬜  🔄 In Progress | ⏳ Pending | — | — |
+| 07 | Azure Cloud | ⬜ 🔄 In Progress | ⏳ Pending | https://www.linkedin.com/posts/akubuko-japhet_devops-cloudcomputing-awscloud-share-7513023408838774784-K0wI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | — |
+| 08 | Terraform | ⬜  ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/akubuko-japhet_devops-cloudcomputing-awscloud-ugcPost-7514127695283388416-0Cjz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://medium.com/@akubukoJaphet/terraform-explained-for-complete-beginners-no-tech-background-needed-e507957e9969?sharedUserId=akubukoJaphet |
 | 09 | Ansible | ⬜  🔄 In Progress | ⏳ Pending | — | — |
-| 10 | Azure DevOps (CI/CD) | ⬜ 🔄 In Progress | ⏳ Pending | — | — |
+| 10 | Azure DevOps (CI/CD) | ⬜ 🔄 In Progress | ⏳ Pending | https://www.linkedin.com/posts/akubuko-japhet_devops-cloudcomputing-awscloud-share-7513023408838774784-K0wI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzB5WwBxyd6sYpN54WYePBkigtWt6eWj8A | https://medium.com/@akubukoJaphet/azure-devops-and-ci-cd-explained-a-beginners-guide-for-everyone-bfafd9a30eca?sharedUserId=akubukoJaphet |
 | 11 | Docker | ⬜ 🔄 In Progress | ⏳ Pending | — | — |
 | 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
 | 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
