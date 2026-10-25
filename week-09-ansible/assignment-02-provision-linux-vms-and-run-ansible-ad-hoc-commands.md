@@ -24,7 +24,8 @@ This project will use the Git repository and Ansible controller prepared in Assi
 
 #### Screenshot 1 — Terminal showing the complete `ansible-adhoc-lab` project structure
 
-Add your screenshot here.
+<img width="1846" height="822" alt="image" src="https://github.com/user-attachments/assets/4e2596de-fc9c-4685-b70c-264b2cbf2d70" />
+
 
 ---
 
